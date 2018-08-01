@@ -1,16 +1,18 @@
 {
   "name": "taboo-data",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A data set for Taboo games",
-  "keywords": "game, data, dataset, Taboo",
+  "keywords": [
+    "game", "data", "dataset", "Taboo"
+  ],
+  "homepage": "https://github.com/Kovah/Taboo-Data#readme",
+  "author": "Kovah (https://kovah.de/)",
+  "license": "GPL-3.0-or-later",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Kovah/Taboo-Data.git"
   },
-  "author": "Kovah (https://kovah.de/)",
-  "license": "GPL-3.0-or-later",
   "bugs": {
     "url": "https://github.com/Kovah/Taboo-Data/issues"
-  },
-  "homepage": "https://github.com/Kovah/Taboo-Data#readme"
+  }
 }
