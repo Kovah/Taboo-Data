@@ -1,5 +1,8 @@
 # Changelog
 
+### 0.0.4
+* Updates cars category
+
 ### 0.0.3
 * Updates animals category
 
