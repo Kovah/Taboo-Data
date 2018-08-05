@@ -1,10 +1,13 @@
 # Changelog
 
+### 0.0.5
+* Updated literature category
+
 ### 0.0.4
-* Updates cars category
+* Updated cars category
 
 ### 0.0.3
-* Updates animals category
+* Updated animals category
 
 ### 0.0.2
 * Adds new categories.json file that contain an overview on all available categories
