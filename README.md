@@ -1,5 +1,7 @@
 # Taboo-Data
 
+![Current version](https://img.shields.io/npm/v/taboo-data.svg) ![Downloads](https://img.shields.io/npm/dm/taboo-data.svg) ![License](https://img.shields.io/github/license/Kovah/Taboo-Data.svg)
+
 A data set for Taboo games. Plain JSON files that contain parsable cards that contain the keyword
 and some buzzwords like on the original Taboo game.
 
