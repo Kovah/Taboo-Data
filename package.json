@@ -1,6 +1,6 @@
 {
   "name": "taboo-data",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "A data set for Taboo games",
   "keywords": [
     "game", "data", "dataset", "Taboo"

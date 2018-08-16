@@ -1,5 +1,8 @@
 # Changelog
 
+### 0.0.6
+* Updated web category
+
 ### 0.0.5
 * Updated literature category
 
