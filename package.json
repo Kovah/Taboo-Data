@@ -1,9 +1,12 @@
 {
   "name": "taboo-data",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "A data set for Taboo games",
   "keywords": [
-    "game", "data", "dataset", "Taboo"
+    "game",
+    "data",
+    "dataset",
+    "Taboo"
   ],
   "homepage": "https://github.com/Kovah/Taboo-Data#readme",
   "author": "Kovah (https://kovah.de/)",
