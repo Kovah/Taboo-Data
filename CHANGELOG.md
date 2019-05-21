@@ -1,5 +1,13 @@
 # Changelog
 
+### 1.0.0
+* Refactoring of the data structure to pure JSON
+* Added helper files for PHP and JS
+* Published to Packagist for PHP
+
+### 0.0.7
+* Updated food category
+
 ### 0.0.6
 * Updated web category
 

@@ -52,9 +52,12 @@ const data = cars;
 **PHP**
 
 ```php
+<?php
+use Kovah\TabooData;
 
+$categories = TabooData::getCategories();
+$cars = TabooData::getCategory('cars');
 ```
-
 
 
 ## Contributing

@@ -1,4 +1,6 @@
 .idea
 mix-manifest.json
+composer.lock
 /node_modules
 /test
+/vendor/
