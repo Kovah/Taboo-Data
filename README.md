@@ -1,6 +1,6 @@
 # Taboo-Data
 
-![Current version](https://img.shields.io/npm/v/taboo-data.svg) ![Downloads](https://img.shields.io/npm/dm/taboo-data.svg) [![Build Status](https://img.shields.io/travis/kovah/taboo-data.svg)](https://travis-ci.org/Kovah/Taboo-Data) ![License](https://img.shields.io/github/license/Kovah/Taboo-Data.svg)
+![Current version](https://img.shields.io/github/release/kovah/taboo-data.svg) ![Downloads](https://img.shields.io/npm/dm/taboo-data.svg) [![Build Status](https://img.shields.io/travis/kovah/taboo-data.svg)](https://travis-ci.org/Kovah/Taboo-Data) ![License](https://img.shields.io/github/license/Kovah/Taboo-Data.svg)
 
 A data set for Taboo games. Plain JSON files which contain the keyword
 and some buzzwords like in the original Taboo game.
@@ -18,7 +18,9 @@ use all entries out of the box.
 ## Usage
 
 You can use the data set by [downloading it](https://github.com/Kovah/Taboo-Data/archive/master.zip)
-or as an NPM package by running the following command
+or use one of the following methods:
+
+**Javascript**
 
 ```
 npm install taboo-data --save
@@ -26,10 +28,7 @@ or
 yarn add taboo-data
 ```
 
-Taboo-Data provides helper classes you can use to quickly import the data into your
-application. Here are examples on how to implement them.
-
-**JavaScript**
+Here's an example on how to use the package with Javascript:
 
 ```javascript
 import TabooData from 'taboo-data';
@@ -50,6 +49,12 @@ const data = cars;
 
 
 **PHP**
+
+```
+composer require kovah/taboo-data
+```
+
+Here's an example on how to use the package with Javascript:
 
 ```php
 <?php
