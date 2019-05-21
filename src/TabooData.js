@@ -23,7 +23,7 @@ export default class TabooData {
       'sports': sports,
       'things': things,
       'tv': tv,
-      'web': web,
+      'web': web
     };
   };
 
