@@ -1,6 +1,8 @@
 {
   "name": "taboo-data",
   "version": "0.0.7-1",
+  "type": "module",
+  "main": "./src/TabooData.js",
   "description": "A data set for Taboo games",
   "keywords": [
     "game",
@@ -17,5 +19,12 @@
   },
   "bugs": {
     "url": "https://github.com/Kovah/Taboo-Data/issues"
+  },
+  "devDependencies": {
+    "laravel-mix": "^4.0.15",
+    "vue-template-compiler": "^2.6.10"
+  },
+  "scripts": {
+    "development": "node_modules/webpack/bin/webpack.js --progress --hide-modules --config=node_modules/laravel-mix/setup/webpack.config.js"
   }
 }
