@@ -1,1 +1,4 @@
 .idea
+mix-manifest.json
+/node_modules
+/test
