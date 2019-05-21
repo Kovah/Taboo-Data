@@ -2,8 +2,8 @@
 
 ![Current version](https://img.shields.io/npm/v/taboo-data.svg) ![Downloads](https://img.shields.io/npm/dm/taboo-data.svg) ![License](https://img.shields.io/github/license/Kovah/Taboo-Data.svg)
 
-A data set for Taboo games. Plain JSON files that contain parsable cards that contain the keyword
-and some buzzwords like on the original Taboo game.
+A data set for Taboo games. Plain JSON files which contain the keyword
+and some buzzwords like in the original Taboo game.
 
 
 ## Usage
@@ -15,35 +15,34 @@ or as an NPM package by running the following command
 npm install taboo-data
 ```
 
-### Parsing
 
-All lists contain entries that are parsable strings that are formatted like this:
+### Data Structure
 
-* The key word comes first and ends with the vertical stoke (`|`).
-* Buzzwords come after the vertical stoke and are delimited by colons (`:`).
-* Buzzwords can contain any characters except `|` and `:`.
-* Some keywords may also have no buzzwords and thus have no `|`.
+All lists are structured by using a key > value based approach. This means that the array keys contain
+the keyword like `Bär` and the array values contain the buzzwords, like `Grizzly, Honig, Pooh`.
 
-```
-Main Word|Buzzword 1:Buzzword, with sp3c!al char$ 2:Buzzword 3
-```
+Instead of having to parse all entries like before you can now decode the whole file contents and directly
+use all entries out of the box.
 
-#### Examples
+
+#### Helper classes
+
+Taboo-Data provides helper classes you can use to quickly import the data into your
+application. Here are examples on how to implement them.
 
 **JavaScript**
 
 ```javascript
-var card = {};
 
-var split = wordString.split('|');
-card.word = split[0];
-
-if (typeof split[1] !== 'undefined') {
-    card.buzzwords = split[1].split(':');
-} else {
-    card.buzzwords = [];
-}
 ```
+
+
+**PHP**
+
+```php
+
+```
+
 
 
 ## Contributing
@@ -55,16 +54,7 @@ or what needs to be improved.
 
 ### Words
 
-To contribute words, just add them to the appropriate category with the following scheme:
-
-    Main Word|Buzzword 1:Buzzword, with sp3c!al char$ 2:Buzzword 3
-
-Please notice that words cannot contain any of the following characters:
-
-    Vertical stoke      |
-    Double points       :
-    Quotation marks     "
-    Backslashes         \
+To contribute words, just add them to the appropriate category and add at least 3-4 buzzwords.
 
 
 ---
