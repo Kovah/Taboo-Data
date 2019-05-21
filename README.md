@@ -1,6 +1,6 @@
 # Taboo-Data
 
-![Current version](https://img.shields.io/npm/v/taboo-data.svg) ![Downloads](https://img.shields.io/npm/dm/taboo-data.svg) ![License](https://img.shields.io/github/license/Kovah/Taboo-Data.svg)
+![Current version](https://img.shields.io/npm/v/taboo-data.svg) ![Downloads](https://img.shields.io/npm/dm/taboo-data.svg) [![Build Status](https://img.shields.io/travis/kovah/taboo-data.svg)](https://travis-ci.org/Kovah/Taboo-Data) ![License](https://img.shields.io/github/license/Kovah/Taboo-Data.svg)
 
 A data set for Taboo games. Plain JSON files which contain the keyword
 and some buzzwords like in the original Taboo game.
