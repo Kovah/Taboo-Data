@@ -20,7 +20,8 @@
   "Audi": [
     "Deutschland",
     "Ingolstadt",
-    "Ringe"
+    "Ringe",
+    "Volkswagen"
   ],
   "Bentley": [
     "Luxus",
@@ -29,7 +30,9 @@
   ],
   "BMW": [
     "Deutschland",
-    "Mercedes"
+    "Mercedes",
+    "Beemer",
+    "3er"
   ],
   "Bugatti": [
     "Luxus",
@@ -51,7 +54,8 @@
     "Amerika",
     "USA",
     "General Motors",
-    "Camaro"
+    "Camaro",
+    "Transformers"
   ],
   "Chrysler": [
     "Amerika",
@@ -94,7 +98,8 @@
   "De Lorean": [
     "Zeitmaschine",
     "GMC",
-    "Zurück in die Zukunft"
+    "Zurück in die Zukunft",
+    "Marty McFly"
   ],
   "De Tomaso": [
     "Italien",
@@ -124,7 +129,8 @@
     "Fließband"
   ],
   "GAZ": [
-    "Russland"
+    "Russland",
+    "Sowjetunion"
   ],
   "GMC": [
     "General Motors",
@@ -205,12 +211,14 @@
   ],
   "Land Rover": [
     "England",
+    "Schottland",
     "Jaguar",
     "Jeep",
     "Geländewagen"
   ],
   "Lexus": [
     "Toyota",
+    "Luxus",
     "Japan"
   ],
   "Lincoln": [
@@ -373,6 +381,7 @@
   "Smart": [
     "Deutschland",
     "klein",
+    "klug",
     "Parklücke",
     "Mercedes",
     "Daimler"
@@ -384,6 +393,7 @@
   ],
   "Suzuki": [
     "Japan",
+    "Motorräder",
     "Honda"
   ],
   "Tesla": [
@@ -434,6 +444,9 @@
   "Volkswagen": [
     "Deutschland",
     "Golf",
+    "Passat",
+    "Audi",
+    "Wolfsburg",
     "Konzern"
   ],
   "Wartburg": [
