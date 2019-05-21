@@ -1,29 +1,166 @@
-[
-  "Alice im Wunderland (Lewis Carroll, 1865)|Johnny Depp:Teegesellschaft:Grinsekatze:Hutmacher:Herzkönig",
-  "Buddenbrooks (Thomas Mann, 1901)|Bürgertum:Lübeck:Hanseaten:Familie",
-  "Das fliegende Klassenzimmer (Erich Kästner, 1933)|Schule:Lehrer:Schüler:",
-  "Das Nibelungenlied (13. Jh.)|Siegfried:Drachen:Kriemhild:Burgundenreich",
-  "Das Parfum (Patrick Süskind, 1985)|Duft:Mord:Chemie:Eau de Toilet",
-  "Der alte Mann und das Meer (Ernest Hemingway, 1952)|Kuba:Fischer:Santiago:Marlin",
-  "Der Hauptmann von Köpenick (Carl Zuckmayer, 1931)|Friedrich Wilhelm Voigt:Rathaus:Uniform:Berlin:Bezirk:",
-  "Die Blechtrommel (Günter Grass, 1959)|Oskar:Instrument:Bruno:Psychatrie",
-  "Die unendliche Geschichte (Michael Ende, 1979)|Bastian:Phantásien:Fuchur:Nichts:Atréju",
-  "Die Verwandlung (Franz Kafka, 1912)|Gregor Samsa:Käfer:Familie:Ungeziefer:Prokurist:Grete",
-  "Don Quijote (Miguel de Cervantes, 1605)|Spanien:Sancho Panza:Windmühlen:Ritter",
-  "Effi Briest (Theodor Fontane, 1896)|Baron von Innstetten:Liebschaft:Duell",
-  "Faust - Der Tragödie erster Teil (Johann W. Goethe, 1832)|Tragödie:Forscher:Mephisto:Gretchen",
-  "Gullivers Reisen (Jonathan Swift, 1726)|Liliput:Riese:Brobdingnag:Houyhnhnms",
-  "Im Westen nichts Neues (Erich M. Remarque, 1929)|Soldat:Weltkrieg:Paul Bäumer",
-  "Hamlet (William Shakespeare, 1602)|Romeo und Julia:Prinz",
-  "Krabat (Otfried Preußler, 1971)|Lehrling:Zaubermeister:Magie:Duell:Kantorka",
-  "Max und Moritz (Wilhelm Busch, 1908)|Streiche:Lehrer Lämpel:Onkel Fritz:Meister Bäcker",
-  "Moby Dick (Herman Melville, 1851)|Ahab:Pequod:Schiff:Pottwal",
-  "Nathan der Weise (Gotthold E. Lessing, 1781)|Juden:Recha:Tempelherr:Sultan Saladin:Assad",
-  "Robinson Crusoe (Daniel Defoe, 1719)|Schiffbruch:einsame Insel",
-  "Till Eulenspiegel (14. Jahrhundert)|Mittelalter:Schalk:Streiche",
-  "Tristan (Gottfried von Straßburg, 1215)|Isolde:Cornwall:Vergiftung",
-  "Odyssee (Homer, 8. Jh. v. Chr.)|Troja:Irrfahrt:Sirenen:Schiff",
-  "Oliver Twist (Charles Dickens, 1838)|Waisenkind:Armenhaus:Mr. Sowerberry:Fagin:Dieb",
-  "Ulysses (James Joyce, 1922)|Leopold Bloom:Dublin:Irland:Zeitung:Gedanken",
-  "Wilhelm Tell (Friedrich Schiller, 1805)|Apfel:Armbrust:Schuss:Kopf"
-]
+{
+  "Alice im Wunderland (Lewis Carroll, 1865)": [
+    "Johnny Depp",
+    "Teegesellschaft",
+    "Grinsekatze",
+    "Hutmacher",
+    "Herzkönig"
+  ],
+  "Buddenbrooks (Thomas Mann, 1901)": [
+    "Bürgertum",
+    "Lübeck",
+    "Hanseaten",
+    "Familie"
+  ],
+  "Das fliegende Klassenzimmer (Erich Kästner, 1933)": [
+    "Schule",
+    "Lehrer",
+    "Schüler",
+    ""
+  ],
+  "Das Nibelungenlied (13. Jh.)": [
+    "Siegfried",
+    "Drachen",
+    "Kriemhild",
+    "Burgundenreich"
+  ],
+  "Das Parfum (Patrick Süskind, 1985)": [
+    "Duft",
+    "Mord",
+    "Chemie",
+    "Eau de Toilet"
+  ],
+  "Der alte Mann und das Meer (Ernest Hemingway, 1952)": [
+    "Kuba",
+    "Fischer",
+    "Santiago",
+    "Marlin"
+  ],
+  "Der Hauptmann von Köpenick (Carl Zuckmayer, 1931)": [
+    "Friedrich Wilhelm Voigt",
+    "Rathaus",
+    "Uniform",
+    "Berlin",
+    "Bezirk",
+    ""
+  ],
+  "Die Blechtrommel (Günter Grass, 1959)": [
+    "Oskar",
+    "Instrument",
+    "Bruno",
+    "Psychatrie"
+  ],
+  "Die unendliche Geschichte (Michael Ende, 1979)": [
+    "Bastian",
+    "Phantásien",
+    "Fuchur",
+    "Nichts",
+    "Atréju"
+  ],
+  "Die Verwandlung (Franz Kafka, 1912)": [
+    "Gregor Samsa",
+    "Käfer",
+    "Familie",
+    "Ungeziefer",
+    "Prokurist",
+    "Grete"
+  ],
+  "Don Quijote (Miguel de Cervantes, 1605)": [
+    "Spanien",
+    "Sancho Panza",
+    "Windmühlen",
+    "Ritter"
+  ],
+  "Effi Briest (Theodor Fontane, 1896)": [
+    "Baron von Innstetten",
+    "Liebschaft",
+    "Duell"
+  ],
+  "Faust - Der Tragödie erster Teil (Johann W. Goethe, 1832)": [
+    "Tragödie",
+    "Forscher",
+    "Mephisto",
+    "Gretchen"
+  ],
+  "Gullivers Reisen (Jonathan Swift, 1726)": [
+    "Liliput",
+    "Riese",
+    "Brobdingnag",
+    "Houyhnhnms"
+  ],
+  "Im Westen nichts Neues (Erich M. Remarque, 1929)": [
+    "Soldat",
+    "Weltkrieg",
+    "Paul Bäumer"
+  ],
+  "Hamlet (William Shakespeare, 1602)": [
+    "Romeo und Julia",
+    "Prinz"
+  ],
+  "Krabat (Otfried Preußler, 1971)": [
+    "Lehrling",
+    "Zaubermeister",
+    "Magie",
+    "Duell",
+    "Kantorka"
+  ],
+  "Max und Moritz (Wilhelm Busch, 1908)": [
+    "Streiche",
+    "Lehrer Lämpel",
+    "Onkel Fritz",
+    "Meister Bäcker"
+  ],
+  "Moby Dick (Herman Melville, 1851)": [
+    "Ahab",
+    "Pequod",
+    "Schiff",
+    "Pottwal"
+  ],
+  "Nathan der Weise (Gotthold E. Lessing, 1781)": [
+    "Juden",
+    "Recha",
+    "Tempelherr",
+    "Sultan Saladin",
+    "Assad"
+  ],
+  "Robinson Crusoe (Daniel Defoe, 1719)": [
+    "Schiffbruch",
+    "einsame Insel"
+  ],
+  "Till Eulenspiegel (14. Jahrhundert)": [
+    "Mittelalter",
+    "Schalk",
+    "Streiche"
+  ],
+  "Tristan (Gottfried von Straßburg, 1215)": [
+    "Isolde",
+    "Cornwall",
+    "Vergiftung"
+  ],
+  "Odyssee (Homer, 8. Jh. v. Chr.)": [
+    "Troja",
+    "Irrfahrt",
+    "Sirenen",
+    "Schiff"
+  ],
+  "Oliver Twist (Charles Dickens, 1838)": [
+    "Waisenkind",
+    "Armenhaus",
+    "Mr. Sowerberry",
+    "Fagin",
+    "Dieb"
+  ],
+  "Ulysses (James Joyce, 1922)": [
+    "Leopold Bloom",
+    "Dublin",
+    "Irland",
+    "Zeitung",
+    "Gedanken"
+  ],
+  "Wilhelm Tell (Friedrich Schiller, 1805)": [
+    "Apfel",
+    "Armbrust",
+    "Schuss",
+    "Kopf"
+  ]
+}
