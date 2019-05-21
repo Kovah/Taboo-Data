@@ -1,6 +1,6 @@
 {
   "name": "taboo-data",
-  "version": "0.0.7-1",
+  "version": "1.0.0",
   "type": "module",
   "main": "./src/TabooData.js",
   "description": "A dataset for Taboo games",
