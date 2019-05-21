@@ -1,4 +1,7 @@
-/tests
-/vendor
+/.idea
 /composer.json
 /composer.lock
+/node_modules
+/test
+/vendor/
+/tests
