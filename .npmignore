@@ -1,6 +1,8 @@
 /.idea
 /composer.json
 /composer.lock
+/.travis.yml
+/phpunit.xml
 /node_modules
 /test
 /vendor/
