@@ -394,8 +394,17 @@ export const people = {
     'Schauspieler',
     'Deutschland'
   ],
-  'Eminem': [],
-  'Emma Stone': [],
+  'Eminem': [
+    'Rapper',
+    'Slim Shady',
+    'Detroit',
+    'Without me',
+  ],
+  'Emma Stone': [
+    'Schauspielerin',
+    'Zombieland',
+    'La La Land'
+  ],
   'Emma Watson': [
     'Schauspieler',
     'Hollywood',
@@ -403,20 +412,34 @@ export const people = {
     'Harry Potter',
     'Hermine'
   ],
-  'Ernest Hemingway': [],
+  'Ernest Hemingway': [
+    'Schriftsteller',
+    'Nobelpreis',
+    'Der alte Mann und das Meer',
+  ],
   'Federico Fellini': [],
   'Felicity Jones': [],
   'Fidel Castro': [
     'Che Guevara',
     'Kuba'
   ],
-  'Frank Sinatra': [],
+  'Frank Sinatra': [
+    'Sänger',
+    'Swing',
+    'Jazz',
+    'New York, New York'
+  ],
   'Freddie Mercury': [
     'Queen',
     'Sänger',
     'Rock'
   ],
-  'Galileo Galilei': [],
+  'Galileo Galilei': [
+    'Philosoph',
+    'Astrologe',
+    'Erfinder',
+    'Kirche'
+  ],
   'Gary Cooper': [],
   'Geena Davis': [],
   'Gene Hackman': [
@@ -526,9 +549,16 @@ export const people = {
     'USA',
     'Komödien'
   ],
-  'Jim Morrison': [],
-  'Jimi Hendrix': [],
-  'Joaquin Phoenix': [],
+  'Jimi Hendrix': [
+    'Sänger',
+    'Rock',
+    'Woodstock',
+    'E-Gitarre'
+  ],
+  'Joaquin Phoenix': [
+    'Schauspieler',
+    'Joker'
+  ],
   'Jodie Foster': [
     'Schauspieler',
     'Hollywood',
@@ -556,8 +586,18 @@ export const people = {
   ],
   'Josef Stalin': [],
   'Julianne Moore': [],
-  'Justin Bieber': [],
-  'Karl Lagerfeld': [],
+  'Justin Bieber': [
+    'Sänger',
+    'Pop',
+    'Teenie-Star'
+  ],
+  'Karl Lagerfeld': [
+    'Designer',
+    'Mode',
+    'Anzug',
+    'Deutsch',
+    'Modezar'
+  ],
   'Kat Dennings': [
     'Two Broke Girls',
     'Schauspielerin',
