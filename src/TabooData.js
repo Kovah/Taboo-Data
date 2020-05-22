@@ -1,16 +1,16 @@
 import { categories } from './data/categories';
-import { animals } from './data/de/animals';
-import { cars } from './data/de/cars';
-import { cityCountry } from './data/de/city-country';
-import { food } from './data/de/food';
-import { literature } from './data/de/literature';
-import { people } from './data/de/people';
-import { sports } from './data/de/sports';
-import { things } from './data/de/things';
-import { tv } from './data/de/tv';
-import { web } from './data/de/web';
+import * as animals from './data/de/animals.json';
+import * as cars from './data/de/cars.json';
+import * as cityCountry from './data/de/city-country.json';
+import * as food from './data/de/food.json';
+import * as literature from './data/de/literature.json';
+import * as people from './data/de/people.json';
+import * as sports from './data/de/sports.json';
+import * as things from './data/de/things.json';
+import * as tv from './data/de/tv.json';
+import * as web from './data/de/web.json';
 
-export default class TabooData {
+export class TabooData {
 
   static categoryImports () {
     return {
