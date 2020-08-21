@@ -2,13 +2,13 @@
   "name": "kovah/taboo-data",
   "description": "A dataset for Taboo games",
   "type": "library",
+  "license": "GPL-3.0-or-later",
   "keywords": [
     "game",
     "data",
     "dataset",
     "Taboo"
   ],
-  "license": "GPL-3.0-or-later",
   "authors": [
     {
       "name": "Kovah",
@@ -20,6 +20,11 @@
   },
   "require-dev": {
     "phpunit/phpunit": "^7"
+  },
+  "scripts": {
+    "test": [
+      "./vendor/bin/phpunit"
+    ]
   },
   "autoload": {
     "psr-4": {
