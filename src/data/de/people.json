@@ -272,10 +272,22 @@
     "Hollywood",
     "USA"
   ],
-  "Charles Chaplin": [],
-  "Charles Darwin": [],
-  "Charles De Gaulle": [],
-  "Charles Dickens": [],
+  "Charles Darwin": [
+    "Naturforscher",
+    "Biologe",
+    "Geologe",
+    "Evolutionstheorie"
+  ],
+  "Charles De Gaulle": [
+    "Frankreich",
+    "Präsident",
+    "Weltkrieg"
+  ],
+  "Charles Dickens": [
+    "Schriftsteller",
+    "Eine Weihnachtsgeschichte",
+    "Oliver Twist"
+  ],
   "Charlie Chaplin": [
     "Schauspieler",
     "Hollywood",
@@ -288,7 +300,11 @@
     "USA",
     "Two and a half Men"
   ],
-  "Che Guevara": [],
+  "Che Guevara": [
+    "Revolution",
+    "Kuba",
+    "Fidel Castro"
+  ],
   "Chris Evans": [
     "Schauspieler",
     "Hollywood",
@@ -300,65 +316,107 @@
     "Schauspieler",
     "Hollywood",
     "USA",
-    "Thor"
+    "Thor",
+    "Marvel"
   ],
   "Chris Pratt": [
     "Schauspieler",
     "Hollywood",
     "USA",
-    "Guardians of the Galaxy"
+    "Guardians of the Galaxy",
+    "Jurassic Park"
   ],
   "Christian Bale": [
     "Schauspieler",
     "Hollywood",
-    "USA"
+    "Batman",
+    "The Dark Knight",
+    "American Psycho"
   ],
-  "Christoph Waltz": [],
-  "Christopher Columbus": [],
+  "Christoph Waltz": [
+    "Schauspieler",
+    "Django Unchained",
+    "Inglorious Basterds"
+  ],
+  "Christopher Columbus": [
+    "Italien",
+    "Entdecker",
+    "Seereise",
+    "Atlantik",
+    "Amerika"
+  ],
   "Christopher Walken": [
     "Schauspieler",
     "Hollywood",
-    "USA"
+    "USA",
+    "7 Psychos"
   ],
-  "Chuck Norris": [],
+  "Chuck Norris": [
+    "Schauspieler",
+    "Hollywood",
+    "Roundhouse Kick",
+    "Walker Texas Ranger"
+  ],
   "Clint Eastwood": [
     "Schauspieler",
     "Hollywood",
-    "USA"
+    "Million Dollar Baby",
+    "Gran Turino"
   ],
   "Colin Firth": [
     "Schauspieler",
     "Hollywood",
-    "USA"
+    "A Single Man",
+    "Kingsman"
   ],
-  "Dame Elizabeth Taylor": [],
-  "Daniel Day-Lewis": [],
+  "Dame Elizabeth Taylor": [
+    "Schauspielerin",
+    "There's One Born Every Minute",
+    "Hollywood",
+    "National Velvet"
+  ],
+  "Daniel Day-Lewis": [
+    "Schauspieler",
+    "There will be Blood",
+    "Gangs of New York"
+  ],
   "Daniel Radcliffe": [
     "Schauspieler",
-    "Hollywood",
-    "USA",
+    "Zauberer",
+    "Hodgwarts",
     "Harry Potter"
   ],
   "Danny DeVito": [
     "Schauspieler",
     "Hollywood",
-    "USA"
+    "Twins",
+    "Batman"
   ],
   "David Hasselhoff": [
-    "Knight Rider"
+    "Knight Rider",
+    "Baywatch"
   ],
   "Demi Moore": [
     "Schauspieler",
     "Hollywood",
-    "USA"
+    "G.I. Jane",
+    "3 Engel für Charlie"
   ],
   "Denzel Washington": [
     "Schauspieler",
     "Hollywood",
-    "USA"
+    "The Book of Eli",
+    "Training Day"
   ],
-  "Diane Keaton": [],
-  "Diane Kruger": [],
+  "Diane Keaton": [
+    "Schauspielerin",
+    "Manhattan"
+  ],
+  "Diane Kruger": [
+    "Schauspielerin",
+    "Inglorious Basterds",
+    "Unknown Identity"
+  ],
   "Dr. Stephen Hawking": [
     "Physiker",
     "tot"
@@ -366,7 +424,8 @@
   "Dustin Hoffman": [
     "Schauspieler",
     "Hollywood",
-    "USA"
+    "Tootsie",
+    "Rain Man"
   ],
   "Dwayne 'The Rock' Johnson": [
     "Schauspieler",
@@ -380,7 +439,11 @@
     "USA",
     "Beverly Hills Cop"
   ],
-  "Edgar Allan Poe": [],
+  "Edgar Allan Poe": [
+    "Schriftsteller",
+    "Dichter",
+    "Boston"
+  ],
   "Edward Norton": [
     "Schauspieler",
     "Hollywood",
@@ -388,8 +451,12 @@
     "Fight Club",
     "American History X"
   ],
-  "Elizabeth Taylor": [],
-  "Elvis Presley": [],
+  "Elvis Presley": [
+    "Sänger",
+    "Rock",
+    "Jailhouse Rock",
+    "Las Vegas"
+  ],
   "Elyas M'Barek": [
     "Schauspieler",
     "Deutschland"
@@ -417,8 +484,19 @@
     "Nobelpreis",
     "Der alte Mann und das Meer"
   ],
-  "Federico Fellini": [],
-  "Felicity Jones": [],
+  "Federico Fellini": [
+    "Italien",
+    "Regisseur",
+    "Drehbuchautor",
+    "La Strada"
+  ],
+  "Felicity Jones": [
+    "Schauspielerin",
+    "Star Wars: Rogue One",
+    "Like Crazy",
+    "Inferno",
+    "Die Entdeckung der Unendlichkeit"
+  ],
   "Fidel Castro": [
     "Che Guevara",
     "Kuba"
@@ -440,32 +518,57 @@
     "Erfinder",
     "Kirche"
   ],
-  "Gary Cooper": [],
-  "Geena Davis": [],
+  "Geena Davis": [
+    "Schauspielerin",
+    "Thelma & Louise"
+  ],
   "Gene Hackman": [
     "Schauspieler",
     "Hollywood",
-    "USA"
+    "The French Connection"
   ],
-  "Gene Kelly": [],
-  "General Dwight D. Eisenhower": [],
-  "Geoffrey Rush": [],
+  "Gene Kelly": [
+    "Schauspieler",
+    "Singin in the Rain"
+  ],
+  "General Dwight D. Eisenhower": [
+    "Präsident",
+    "Militär",
+    "USA",
+    "Invasion der Normandie"
+  ],
+  "Geoffrey Rush": [
+    "Schauspieler",
+    "Shine",
+    "Shakespeare in Love",
+    "Fluch der Karibik"
+  ],
   "George Clooney": [
     "Schauspieler",
     "Hollywood",
-    "USA"
+    "Michael Clayton",
+    "From Dusk till Dawn"
   ],
   "George Washington": [
     "Präsident",
-    "USA"
+    "USA",
+    "Verfassung der Verinigten Staaten"
   ],
   "Gerard Depardieu": [
     "Schauspieler",
-    "Frankreich"
+    "Frankreich",
+    "Der Mann mit der eisernen Maske",
+    "Asterix und Obelix"
   ],
-  "Glenn Close": [],
-  "Grace Kelly": [],
-  "Grigorij Rasputin": [],
+  "Glenn Close": [
+    "Schauspielerin",
+    "Eine verhängnisvolle Affäre"
+  ],
+  "Grigorij Rasputin": [
+    "Russland",
+    "Russischer Zarenhof",
+    "Heiler"
+  ],
   "Harrison Ford": [
     "Han Solo",
     "Star Wars",
@@ -473,7 +576,17 @@
     "Schauspieler",
     "Hollywood"
   ],
-  "Hayley Atwell": [],
+  "Harry Houdini": [
+    "Magier",
+    "Stuntman",
+    "Fesslungskünstler"
+  ],
+  "Hayley Atwell": [
+    "Schauspielerin",
+    "Marvel",
+    "Captain America",
+    "Peggy Carter"
+  ],
   "Heath Ledger": [
     "Schauspieler",
     "Hollywood",
@@ -481,10 +594,11 @@
     "tot",
     "Joker"
   ],
-  "Helen Keller": [],
-  "Helen Mirren": [],
-  "Henry Fonda": [],
-  "Houdini": [],
+  "Helen Mirren": [
+    "Schauspielerin",
+    "RED",
+    "Die Queen"
+  ],
   "Hugh Grant": [
     "Schauspieler",
     "Hollywood",
@@ -496,7 +610,11 @@
     "Hollywood",
     "USA"
   ],
-  "Humphrey Bogart": [],
+  "Humphrey Bogart": [
+    "Schauspieler",
+    "Casblanca",
+    "Der Schatz der Sierra Madre"
+  ],
   "Ian McKellen": [
     "Gandalf",
     "Herr der Ringe",
@@ -507,7 +625,8 @@
   "Jack Nicholson": [
     "Schauspieler",
     "Hollywood",
-    "USA"
+    "Shining",
+    "Besser gehts nicht"
   ],
   "Jackie Chan": [
     "Schauspieler",
@@ -518,19 +637,45 @@
   "Jake Gyllenhaal": [
     "Schauspieler",
     "Hollywood",
-    "USA"
+    "USA",
+    "Nightcrawler"
   ],
-  "James Dean": [],
+  "James Dean": [
+    "Schauspieler",
+    "Hollywood",
+    "Idol",
+    "Zigarette"
+  ],
   "Jamie Lee Curtis": [
     "Alien",
     "Schauspieler",
     "Hollywood",
     "USA"
   ],
-  "Janis Joplin": [],
-  "Jared Leto": [],
-  "Jean Reno": [],
-  "Jeff Bridges": [],
+  "Janis Joplin": [
+    "Sängerin",
+    "Rock",
+    "Soul",
+    "Piece of My Heart"
+  ],
+  "Jared Leto": [
+    "Schauspieler",
+    "Dallas Buyers Club",
+    "Suicide Squad"
+  ],
+  "Jean Reno": [
+    "Frankreich",
+    "Schauspieler",
+    "Leon der Profi",
+    "Ronin",
+    "Wasabi"
+  ],
+  "Jeff Bridges": [
+    "actor",
+    "The Big Lebowski",
+    "Dude",
+    "Bowling"
+  ],
   "Jennifer Aniston": [
     "Friends",
     "Schauspielerin",
@@ -540,16 +685,21 @@
   "Jennifer Lawrence": [
     "Schauspielerin",
     "Hollywood",
-    "USA"
+    "Die Tribute von Panem",
+    "Silver Linings"
   ],
-  "Jerry Garcia": [],
   "Jim Carrey": [
     "Schauspieler",
     "Hollywood",
-    "USA",
-    "Komödien"
+    "Ace Ventura",
+    "Komödien",
+    "Bruce Allmächtig"
   ],
-  "Jim Morrison": [],
+  "Jim Morrison": [
+    "Sänger",
+    "The Doors",
+    "Rock"
+  ],
   "Jimi Hendrix": [
     "Sänger",
     "Rock",
@@ -558,12 +708,16 @@
   ],
   "Joaquin Phoenix": [
     "Schauspieler",
-    "Joker"
+    "Joker",
+    "Batman",
+    "her",
+    "Walk the Line"
   ],
   "Jodie Foster": [
     "Schauspieler",
     "Hollywood",
-    "USA"
+    "Das Schweigen der Lämmer",
+    "Taxi Driver"
   ],
   "John F. Kennedy": [
     "Präsident",
@@ -577,20 +731,39 @@
     "Hollywood",
     "USA"
   ],
-  "John Lennon": [],
-  "John Wayne": [],
+  "John Lennon": [
+    "Sänger",
+    "Aktivist",
+    "Beatles",
+    "Paul McCartney"
+  ],
+  "John Wayne": [
+    "True Grit",
+    "Schauspieler",
+    "Alamo"
+  ],
   "Johnny Depp": [
     "Fluch der Karibik",
     "Fear and Loathing in Las Vegas",
     "Schauspieler",
     "Hollywood"
   ],
-  "Josef Stalin": [],
-  "Julianne Moore": [],
+  "Josef Stalin": [
+    "Politiker",
+    "Russland",
+    "Sovietunion",
+    "Kommunisten"
+  ],
+  "Julianne Moore": [
+    "Schauspielerin",
+    "Dem Himmel so fern",
+    "The Kids are all right"
+  ],
   "Justin Bieber": [
     "Sänger",
     "Pop",
-    "Teenie-Star"
+    "Teenie-Star",
+    "One Time"
   ],
   "Karl Lagerfeld": [
     "Designer",
@@ -608,7 +781,8 @@
   "Kate Beckinsale": [
     "Schauspielerin",
     "Hollywood",
-    "USA"
+    "Underworld",
+    "Aviator"
   ],
   "Kate Winslet": [
     "Titanic",
@@ -616,7 +790,12 @@
     "Schauspielerin",
     "Hollywood"
   ],
-  "Keira Knightley": [],
+  "Keira Knightley": [
+    "Schauspielerin",
+    "Fluch der Karibik",
+    "Abbitte",
+    "The Immitation Game"
+  ],
   "Kevin James": [
     "King of Queens",
     "Doug",
@@ -627,7 +806,10 @@
   "Kevin Spacey": [
     "Schauspieler",
     "Hollywood",
-    "USA"
+    "Die üblichen Verdächtigen",
+    "LA Confidential",
+    "Sieben",
+    "House of Cards"
   ],
   "Kiefer Sutherland": [
     "24h",
@@ -635,16 +817,33 @@
     "Hollywood",
     "USA"
   ],
-  "Kirk Douglas": [],
   "Kristen Stewart": [
     "Twilight",
     "Schauspieler",
-    "Hollywood",
-    "USA"
+    "Bella",
+    "Schneewitchen und der Jäger"
   ],
-  "Kurt Cobain": [],
-  "Lance Armstrong": [],
-  "Leonardo Da Vinci": [],
+  "Kurt Cobain": [
+    "Sänger",
+    "Nirvana",
+    "Rock",
+    "Selbstmord",
+    "Smells Like Teen Spirit"
+  ],
+  "Lance Armstrong": [
+    "Sportler",
+    "Rennradfahrer",
+    "Tour de France",
+    "Doping"
+  ],
+  "Leonardo Da Vinci": [
+    "Künstler",
+    "Erfinder",
+    "The Last Supper",
+    "Mona Lisa",
+    "Italien",
+    "Renaissance"
+  ],
   "Leonardo DiCaprio": [
     "Titanic",
     "Wolf of Wallstreet",
@@ -656,10 +855,21 @@
     "Star Wars",
     "Schauspieler",
     "Hollywood",
-    "USA"
+    "Schindlers Liste",
+    "96 Hours"
   ],
-  "Louis Armstrong": [],
-  "Ludwig van Beethoven": [],
+  "Louis Armstrong": [
+    "Musiker",
+    "Jazz",
+    "Trompete"
+  ],
+  "Ludwig van Beethoven": [
+    "Komponist",
+    "Klassik",
+    "Deutschland",
+    "Wien",
+    "Violinkonzert"
+  ],
   "Maggie Smith": [
     "Harry Potter",
     "Prof. McGonnagall",
@@ -667,11 +877,35 @@
     "Hollywood",
     "USA"
   ],
-  "Mahatma Gandhi": [],
-  "Malcolm X": [],
-  "Margot Robbie": [],
-  "Marie Antoinette": [],
-  "Marie Curie": [],
+  "Mahatma Gandhi": [
+    "Indien",
+    "Frieden",
+    "Buddhismus"
+  ],
+  "Malcolm X": [
+    "schwarz",
+    "Muslim",
+    "Aktivist",
+    "USA",
+    "Menschenrechte",
+    "Nation of Islam"
+  ],
+  "Margot Robbie": [
+    "Schauspielerin",
+    "Wolf of Wallstreet",
+    "Suicide Squad"
+  ],
+  "Marie Antoinette": [
+    "Frankreich",
+    "Königin",
+    "Revolution"
+  ],
+  "Marie Curie": [
+    "Polen",
+    "Physikerin",
+    "Chemikerin",
+    "Redioaktivität"
+  ],
   "Marilyn Monroe": [
     "Ikone",
     "Schauspielerin",
@@ -679,13 +913,28 @@
     "USA",
     "tot"
   ],
-  "Mark Twain": [],
+  "Mark Twain": [
+    "Autor",
+    "Schriftsteller",
+    "Humorist",
+    "Verleger",
+    "Tom Sawyer",
+    "Huckleberry Finn"
+  ],
   "Mark Wahlberg": [
     "Schauspieler",
     "Hollywood",
-    "USA"
+    "Marky Mark",
+    "Calvin Klein",
+    "Ted",
+    "Boogie Nights"
   ],
-  "Marlene Dietrich": [],
+  "Marlene Dietrich": [
+    "Deutschland",
+    "Schauspielerin",
+    "Sängerin",
+    "Stummfilm"
+  ],
   "Marlon Brando": [
     "Schauspieler",
     "Hollywood",
