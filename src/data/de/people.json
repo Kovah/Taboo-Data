@@ -114,6 +114,14 @@
     "Illustrationen",
     "tot"
   ],
+  "Angela Merkel": [
+    "Deutschland",
+    "Bundeskanzlerin",
+    "CDU / CSU",
+    "Bundesregierung",
+    "Kanzleramt",
+    "Raute"
+  ],
   "Anne Hathaway": [
     "Les Misérables",
     "Interstellar",
@@ -345,6 +353,13 @@
     "Atlantik",
     "Amerika"
   ],
+  "Christopher Nolan": [
+    "Regisseur",
+    "Inception",
+    "Interstellar",
+    "Dunkirk",
+    "Prestige"
+  ],
   "Christopher Walken": [
     "Schauspieler",
     "Hollywood",
@@ -450,6 +465,13 @@
     "USA",
     "Fight Club",
     "American History X"
+  ],
+  "Ellen Page": [
+    "Schauspielerin",
+    "Juno",
+    "Inception",
+    "Hard Candy",
+    "X-Men"
   ],
   "Elvis Presley": [
     "Sänger",
@@ -686,7 +708,9 @@
     "Schauspielerin",
     "Hollywood",
     "Die Tribute von Panem",
-    "Silver Linings"
+    "Silver Linings",
+    "American Hustle",
+    "X-Men"
   ],
   "Jim Carrey": [
     "Schauspieler",
@@ -753,6 +777,14 @@
     "Russland",
     "Sovietunion",
     "Kommunisten"
+  ],
+  "Joseph Gordon-Levitt": [
+    "Schauspieler",
+    "Inception",
+    "Looper",
+    "Don Jon",
+    "50/50",
+    "Snowden"
   ],
   "Julianne Moore": [
     "Schauspielerin",
@@ -938,51 +970,84 @@
   "Marlon Brando": [
     "Schauspieler",
     "Hollywood",
-    "USA"
+    "Der Pate",
+    "Mafia",
+    "Apocalypse Now"
   ],
   "Martin Lawrence": [
     "Schauspieler",
-    "Hollywood",
-    "USA"
+    "schwarz",
+    "Bad Boys",
+    "Big Mama's Haus"
   ],
-  "Martin Luther King": [],
+  "Martin Luther King": [
+    "Menschenrechte",
+    "schwarz",
+    "I have a Dream",
+    "Aktivist"
+  ],
   "Matt Damon": [
-    "Bourne",
-    "Jason",
+    "Jason Bourne",
     "Schauspieler",
-    "Hollywood",
-    "USA"
+    "Good Will Hunting",
+    "Der Marsianer",
+    "Der talentierte Mr. Rippley"
   ],
   "Matthew McConaughey": [
     "Schauspieler",
-    "Hollywood",
-    "USA"
+    "Interstellar",
+    "Dallas Buyers Club",
+    "Lincoln",
+    "Wolf of Wall Street"
   ],
   "Matthew Perry": [
     "Friends",
+    "Chandler Bing",
     "Schauspieler",
-    "Hollywood",
-    "USA"
+    "Keine halben Sachen",
+    "Studio 60"
   ],
   "Matthias Schweighöfer": [
     "Schauspieler",
     "Deutschland",
-    "Till Schweiger"
+    "Till Schweiger",
+    "You are Wanted"
   ],
   "Mel Gibson": [
     "Schauspieler",
-    "Hollywood",
-    "USA"
+    "Braveheart",
+    "Leathal Weapon",
+    "Martin Riggs",
+    "Die Passion Christi",
+    "Hacksaw Ridge"
   ],
-  "Meryl Streep": [],
-  "Mette Marit": [],
+  "Meryl Streep": [
+    "Schauspielerin",
+    "Der Teufel trägt Prada",
+    "Jenseits von Afrika"
+  ],
+  "Mette Marit": [
+    "Prinzessin",
+    "Norwegen",
+    "Königin",
+    "adlig",
+    "Skandinavien",
+    "Schweden"
+  ],
   "Michael Caine": [
     "Batman",
     "Schauspieler",
-    "Hollywood",
-    "USA"
+    "Prestige",
+    "Cutter",
+    "Dark Knight"
   ],
-  "Michael Douglas": [],
+  "Michael Douglas": [
+    "Schauspieler",
+    "Wall Street",
+    "Basic Instinct",
+    "Hank Pym",
+    "Marvel"
+  ],
   "Michael J. Fox": [
     "Marty",
     "Zurück in die Zukunft",
@@ -991,79 +1056,181 @@
     "Hollywood",
     "Pakinson"
   ],
-  "Michael Jackson": [],
-  "Michael Jordan": [],
-  "Michelangelo": [],
+  "Michael Jackson": [
+    "Sänger",
+    "Popstar",
+    "Nase",
+    "Beat it",
+    "Billie Jean",
+    "Thriller"
+  ],
+  "Michael Jordan": [
+    "Basketball",
+    "NBA",
+    "Chicago Bulls",
+    "Space Jam"
+  ],
+  "Michelangelo": [
+    "Maler",
+    "Künstler",
+    "Italien",
+    "Sixtinische Kapelle",
+    "Renaissance"
+  ],
   "Michelle Pfeiffer": [
     "Schauspielerin",
     "Hollywood",
-    "USA",
-    "Deutschland"
+    "Hairspray",
+    "Maleficent",
+    "Tage wie dieser"
   ],
-  "Mick Jagger": [],
+  "Mick Jagger": [
+    "Sänger",
+    "Rolling Stones",
+    "Rock",
+    "Keith Richards"
+  ],
   "Mike Myers": [
     "Schauspieler",
-    "Hollywood",
-    "USA"
+    "Austin Powers",
+    "Goldständer",
+    "Spion"
   ],
   "Mila Kunis": [
     "Schauspielerin",
-    "Hollywood",
-    "USA"
+    "Black Swan",
+    "Bad Moms",
+    "Jupiter Ascending"
   ],
-  "Miles Davis": [],
-  "Miranda Richardson": [],
-  "Mona Lisa": [],
+  "Miles Davis": [
+    "Musiker",
+    "Jazz",
+    "Trompete",
+    "Blues",
+    "Blue in Green",
+    "So What"
+  ],
+  "Miranda Richardson": [
+    "Schauspielerin",
+    "The Crying Game",
+    "Spider",
+    "Sleepy Hollow"
+  ],
+  "Mona Lisa": [
+    "Kunst",
+    "Gemälde",
+    "Louvre, Paris",
+    "Leonardo DaVinci"
+  ],
   "Monica Bellucci": [
     "Schauspielerin",
-    "Hollywood",
-    "USA"
+    "Zauber von Malena",
+    "Matrix",
+    "Pakt der Wölfe",
+    "Shoot 'em Up"
   ],
   "Morgan Freeman": [
     "Schauspieler",
-    "Hollywood",
-    "USA"
+    "Se7en",
+    "Million Dollar Baby",
+    "Lucky Number Slevin",
+    "schwarz",
+    "Die Verurteilten"
   ],
-  "Mutter Teresa": [],
-  "Muhammad Ali": [],
-  "Naomi Watts": [],
-  "Napoleon Bonaparte": [],
+  "Mutter Teresa": [
+    "Katholische Kirche",
+    "Heilige",
+    "Nonne",
+    "Missionarin",
+    "Kalkutta"
+  ],
+  "Muhammad Ali": [
+    "Boxer",
+    "Aktivist",
+    "The Greatest",
+    "Schwergewicht"
+  ],
+  "Naomi Watts": [
+    "Schauspielerin",
+    "Mulholland Drive",
+    "King Kong",
+    "Birdman"
+  ],
+  "Napoleon Bonaparte": [
+    "Frankreich",
+    "Französische Revolution",
+    "klein",
+    "Militär",
+    "Kommandeur",
+    "Vergiftung"
+  ],
   "Natalie Portman": [
     "Star Wars",
-    "Padme",
+    "Anakin Skywalker",
+    "Padme Amidalla",
     "Schauspielerin",
-    "Hollywood",
-    "USA"
+    "Black Swan",
+    "V wie Vendetta",
+    "Leon der Profi"
   ],
-  "Neil Armstrong": [],
-  "Nelson Mandela": [],
-  "Nicola Tesla": [],
+  "Neil Armstrong": [
+    "Astronaut",
+    "Mondlandung",
+    "USA",
+    "NASA",
+    "Ein kleiner Schritt"
+  ],
+  "Nelson Mandela": [
+    "Revolutionär",
+    "schwarz",
+    "Südeafrika",
+    "Nobel Friedenspreis"
+  ],
+  "Nicola Tesla": [
+    "Erfinder",
+    "Ingenieur",
+    "Tesla Spule",
+    "Elektrizität",
+    "Futurist"
+  ],
   "Nicolas Cage": [
     "The Rock",
     "Schauspieler",
-    "Hollywood",
-    "USA"
+    "Face Off",
+    "Leaving Las Vegas",
+    "Con Air"
   ],
   "Nicole Kidman": [
-    "Schauspieler",
-    "Hollywood",
-    "USA"
+    "Schauspielerin",
+    "Moulin Rouge",
+    "Dogville"
   ],
-  "Orson Welles": [],
+  "Orson Welles": [
+    "Schauspieler",
+    "Citizen Kane",
+    "Im Zeichen des Bösen",
+    "Die Lady von Shangai"
+  ],
   "Owen Wilson": [
     "Schauspieler",
-    "Hollywood",
-    "USA"
+    "Die Hochzeitscrasher",
+    "Nachts im Museum",
+    "Starsky & Hutch",
+    "The Royal Tenenbaums"
   ],
-  "Pablo Picasso": [],
+  "Pablo Picasso": [
+    "Künstler",
+    "Maler",
+    "Gemälde",
+    "Spanien"
+  ],
   "Patrick Stewart": [
     "Star Trek",
     "Picard",
     "Schauspieler",
-    "Hollywood",
-    "USA"
+    "Wolverine",
+    "Charles"
   ],
-  "Paul Newman": [],
   "Paul Walker": [
     "2 Fast 2 Furious",
     "Autos",
@@ -1072,98 +1239,145 @@
     "Hollywood",
     "tot"
   ],
-  "Peter Sellers": [],
-  "Papst John Paul II": [],
-  "Prinzessin Diana": [],
+  "Peter Sellers": [
+    "Schauspieler",
+    "Dr. Strangelove",
+    "Inspector Clouseau",
+    "Der rosarote Panther"
+  ],
+  "Papst John Paul II": [
+    "Katholische Kirche",
+    "Oberhaupt",
+    "Stellvertreter Gottes",
+    "Vatikan",
+    "Bischoff von Rom"
+  ],
+  "Prinzessin Diana": [
+    "Großbritannien",
+    "Vereinigtes Königreich",
+    "Queen",
+    "adlig",
+    "Paris",
+    "Autounfall"
+  ],
   "Rachel Weisz": [
     "Schauspielerin",
-    "Hollywood",
-    "USA"
+    "Die Mumie",
+    "Der ewige Gärtner",
+    "The Favourite"
   ],
   "Rami Malek": [
     "Mr. Robot",
     "Schauspieler",
-    "Hollywood",
-    "USA"
+    "Freddie Mercury",
+    "Queen",
+    "Oscar",
+    "Elliot Alderson",
+    "fsociety"
   ],
-  "Rembrandt": [],
+  "Rembrandt": [
+    "Künstler",
+    "Maler",
+    "Niederlande",
+    "Porträts"
+  ],
   "Richard Gere": [
     "Pretty Woman",
     "Schauspieler",
-    "Hollywood",
-    "USA"
+    "Chicago",
+    "Der Schakal"
   ],
   "Robert De Niro": [
     "Schauspieler",
-    "Hollywood",
-    "USA"
+    "Taxi Driver",
+    "Kap der Angst",
+    "The Irishman",
+    "Joker",
+    "Wie ein wilder Stier"
   ],
   "Robert Downey Jr.": [
     "Ironman",
     "Avengers",
     "Schauspieler",
-    "Hollywood",
-    "USA"
+    "Marvel",
+    "Sherlock Holmes"
   ],
-  "Robert Duvall": [],
   "Robert Pattinson": [
     "Twilight",
     "Schauspieler",
-    "Hollywood",
-    "USA"
+    "Vampir",
+    "Edward & Bella"
   ],
   "Robert Redford": [
     "Schauspieler",
-    "Hollywood",
-    "USA"
+    "Der Unbeugsame",
+    "Zwei Banditen"
   ],
   "Robin Williams": [
     "Schauspieler",
-    "Hollywood",
+    "Mrs. Doubtfire",
     "Komödien",
-    "tot"
+    "Selbstmord",
+    "Good Morning, Vietnam",
+    "Good Will Hunting"
   ],
-  "Roger Moore": [],
-  "Ronald Reagan": [],
+  "Ronald Reagan": [
+    "USA",
+    "Präsident",
+    "Schauspieler",
+    "Hollywood",
+    "Gouverneur von Kalifornien"
+  ],
   "Rowan Atkinson": [
     "Mr. Bean",
     "Mini",
     "Teddy",
     "Schauspieler",
-    "England"
+    "England",
+    "Vereinigtes Königreich"
   ],
   "Russell Crowe": [
     "Schauspieler",
-    "Hollywood",
-    "USA"
+    "A Beautiful Mind",
+    "Les Miserables",
+    "Gladiator",
+    "LA Confidential"
   ],
-  "Sacha Baron Cohen": [
-    "Borat",
-    "Schauspieler",
-    "Hollywood",
-    "USA"
+  "Salvador Dali": [
+    "Künstler",
+    "Maler",
+    "Surrealismus",
+    "Uhr",
+    "Rabe"
   ],
-  "Salvador Dali": [],
   "Samuel L. Jackson": [
     "Pulp Fiction",
+    "Jules Winnfield",
     "Schauspieler",
-    "Hollywood",
-    "USA"
+    "The Hateful Eight",
+    "Captain Marvel",
+    "Glass",
+    "Nick Fury"
   ],
   "Scarlett Johansson": [
     "Schauspielerin",
-    "Hollywood",
-    "USA"
+    "Lost in Translation",
+    "Avengers",
+    "Natasha Romanoff",
+    "Under the Skin",
+    "Sing"
   ],
   "Sean Connery": [
     "Schauspieler",
-    "Hollywood",
-    "USA"
+    "The Rock",
+    "James Bond 007",
+    "Jagd auf Roter Oktober"
   ],
   "Sean Penn": [
     "Schauspieler",
-    "Hollywood",
-    "USA"
+    "Mystic River",
+    "Milk",
+    "Dead Men Walking"
   ],
   "Shahrukh Khan": [
     "Schauspieler",
@@ -1171,10 +1385,20 @@
     "Indien",
     "tanzen"
   ],
-  "Sir Isaac Newton": [],
-  "Sofia Vergara": [],
-  "Sophia Loren": [],
-  "Stanley Kubrick": [],
+  "Sir Isaac Newton": [
+    "Mathematiker",
+    "Astronom",
+    "Physiker",
+    "Schwerkraft",
+    "Apfel"
+  ],
+  "Stanley Kubrick": [
+    "Regisseur",
+    "2001: A Space Odyssey",
+    "Eyes Wide Shut",
+    "Uhrwerk Orange",
+    "Barry Lyndon"
+  ],
   "Steve Jobs": [
     "Apple",
     "MacBook",
@@ -1182,99 +1406,173 @@
     "iPad",
     "tot"
   ],
-  "Steve McQueen": [],
-  "Susan Sarandon": [],
+  "Susan Sarandon": [
+    "Schauspielerin",
+    "Thelma & Louise",
+    "Dead Men Walking",
+    "Stepmom"
+  ],
   "Sylvester Stallone": [
     "Rambo",
     "Rocky",
     "Action",
     "Schauspieler",
-    "Hollywood",
-    "USA"
+    "Expandables"
   ],
   "Tim Allen": [
     "Hör mal wer da hämmert",
     "Schauspieler",
-    "Hollywood",
-    "USA"
+    "Toy Story",
+    "Galaxy Quest",
+    "Santa Clause"
   ],
   "Tobey Maguire": [
     "Spiderman",
     "Schauspieler",
-    "Hollywood",
-    "USA"
+    "Brothers",
+    "Die Wonder Boys",
+    "Pleasantville"
   ],
   "Tom Cruise": [
     "Top Gun",
+    "Scientology",
     "Schauspieler",
-    "Hollywood",
-    "USA"
+    "The Last Samurai",
+    "Jerry Maguire",
+    "Minority Report"
   ],
   "Tom Hanks": [
     "Forrest Gump",
     "Cast Away",
     "Wilson",
     "Schauspieler",
-    "Hollywood"
+    "Der Soldat James Ryan",
+    "Big",
+    "Inferno"
   ],
   "Tom Hardy": [
     "Mad Max",
     "Inception",
     "Schauspieler",
-    "Hollywood",
-    "USA"
+    "The Dark Knight",
+    "Taboo"
   ],
   "Tommy Lee Jones": [
     "Schauspieler",
-    "Hollywood",
-    "USA"
+    "No Country for Old Men",
+    "Homesman",
+    "Lincoln"
   ],
   "Uma Thurman": [
     "Kill Bill",
     "Schauspieler",
-    "Hollywood",
-    "USA"
+    "Pulp Fiction",
+    "Batman & Robin"
   ],
   "Vin Diesel": [
     "Riddick",
     "2 Fast 2 Furious",
     "Schauspieler",
-    "Hollywood",
-    "USA"
+    "Triple X",
+    "Groot"
   ],
-  "Vincent Van Gogh": [],
-  "Vladimir Lenin": [],
+  "Vincent Van Gogh": [
+    "Künstler",
+    "Maler",
+    "Gemälde",
+    "Pinseltechnik",
+    "Ohr",
+    "Niederlande"
+  ],
+  "Vladimir Lenin": [
+    "Russland",
+    "Sovietunion",
+    "Politiker",
+    "Revolutionär",
+    "Karl Marx",
+    "Kommunist"
+  ],
   "Walt Disney": [
     "Zeichentrick",
     "Donald",
     "Mickey",
     "Bambi",
-    "König der Löwen"
+    "König der Löwen",
+    "Freizeitpark"
   ],
-  "Warren Buffet": [],
+  "Warren Buffet": [
+    "Hedgefonds",
+    "Investments",
+    "Aktien & Finanzen",
+    "Unternehmer",
+    "Milliardär",
+    "reich"
+  ],
   "Will Smith": [
     "Independence Day",
     "Schauspieler",
-    "Hollywood",
-    "USA"
+    "Der Prinz von Bel Air",
+    "Men in Black",
+    "I am Legend",
+    "I Robot",
+    "Wild Wild West",
+    "Bad Boys"
   ],
-  "William Shakespeare": [],
+  "William Shakespeare": [
+    "Poet",
+    "Schriftsteller",
+    "Hamlet",
+    "Romeo und Julia",
+    "Othello",
+    "Macbeth"
+  ],
   "William Shatner": [
     "Star Trek",
     "Captain Kirk",
     "Schauspieler",
-    "Hollywood",
-    "USA"
+    "Spock",
+    "Enterprise"
   ],
-  "Winston Churchill": [],
-  "Wolfgang Amadeus Mozart": [],
-  "Woody Allen": [],
+  "Winston Churchill": [
+    "Armee Offizier",
+    "Ministerpräsident",
+    "Vereinigtes Königreich",
+    "England",
+    "2. Weltkrieg"
+  ],
+  "Wolfgang Amadeus Mozart": [
+    "Komponist",
+    "Östereich",
+    "Klassik",
+    "Eine Kleine Nacht-Musik",
+    "Die Zauberflöte",
+    "Die Hochzeit des Figaro"
+  ],
+  "Woody Allen": [
+    "Regisseur",
+    "Schauspieler",
+    "Drehbuchautor",
+    "Manhattan",
+    "Midnight in Paris",
+    "Annie Hall"
+  ],
   "Woody Harrelson": [
     "Zombieland",
     "Schauspieler",
-    "Hollywood",
-    "USA"
+    "True Detective",
+    "Natural Born Killers",
+    "Larry Flint"
   ],
-  "Yuri Gagarin": [],
-  "Zooey Deschanel": []
+  "Yuri Gagarin": [
+    "Astronaut",
+    "Kosmonaut",
+    "Weltall",
+    "Russland",
+    "Societunion"
+  ],
+  "Zooey Deschanel": [
+    "Schauspielerin",
+    "New Girl",
+    "Per Anhalter durch die Galaxis"
+  ]
 }
