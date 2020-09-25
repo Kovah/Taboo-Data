@@ -1,0 +1,360 @@
+{
+  "Ad Blocker": [
+    "advertisement",
+    "internet",
+    "removal",
+    "websites"
+  ],
+  "Amazon": [
+    "Jeff Bezos",
+    "Prime Video",
+    "books",
+    "online shop",
+    "shopping"
+  ],
+  "App Store": [
+    "Apple",
+    "Google",
+    "downloads",
+    "smartphone",
+    "software"
+  ],
+  "Avatar": [
+    "image",
+    "photo",
+    "profile",
+    "user picture"
+  ],
+  "Bitcoin": [
+    "Ethereum",
+    "blockchain",
+    "crypto",
+    "currency",
+    "money"
+  ],
+  "Blockchain": [
+    "Bitcoin",
+    "Ethereum",
+    "crypto",
+    "currency",
+    "money"
+  ],
+  "Blog": [
+    "WordPress",
+    "articles",
+    "reading",
+    "writing"
+  ],
+  "Browser": [
+    "Chrome",
+    "Firefox",
+    "Internet Explorer",
+    "Safari",
+    "websites"
+  ],
+  "Cloud": [
+    "Dropbox",
+    "Google Drive",
+    "file sharing",
+    "iCloud",
+    "online"
+  ],
+  "Coinbase": [
+    "Crypto",
+    "Ethereum",
+    "blockchain",
+    "currencies",
+    "exchange",
+    "money"
+  ],
+  "Dark Web": [
+    "Tor",
+    "drugs",
+    "trafficking",
+    "weapons"
+  ],
+  "Download": [
+    "browser",
+    "computer",
+    "files",
+    "images",
+    "videos"
+  ],
+  "eBay": [
+    "auctions",
+    "bidding",
+    "buy",
+    "sell"
+  ],
+  "eBook": [
+    "Amazon",
+    "Kindle",
+    "books",
+    "digital",
+    "reading"
+  ],
+  "Emoticon": [
+    "emotion",
+    "feelings",
+    "smiley",
+    "symbol"
+  ],
+  "Facebook": [
+    "Instagram",
+    "Mark Zuckerberg",
+    "Whatsapp",
+    "blue",
+    "social network"
+  ],
+  "Google": [
+    "Gmail",
+    "Maps",
+    "YouTube",
+    "advertisement",
+    "web search"
+  ],
+  "Hacker": [
+    "black hoodie",
+    "fraud",
+    "password",
+    "robbery"
+  ],
+  "Hype": [
+    "fans",
+    "hashtag",
+    "new",
+    "social network",
+    "topic"
+  ],
+  "Influencer": [
+    "VIP",
+    "famous",
+    "followers",
+    "impact",
+    "likes",
+    "social network"
+  ],
+  "Instagram": [
+    "Facebook",
+    "images",
+    "sharing",
+    "social network",
+    "videos"
+  ],
+  "Junk": [
+    "email",
+    "spam"
+  ],
+  "Login": [
+    "accounts",
+    "password",
+    "profile",
+    "username"
+  ],
+  "Logout": [
+    "login",
+    "profile",
+    "sign out"
+  ],
+  "Malware": [
+    "dangerous",
+    "ransomware",
+    "rootkit",
+    "trojan",
+    "virus"
+  ],
+  "Mention": [
+    "@",
+    "reference",
+    "social networks",
+    "username"
+  ],
+  "Nerd": [
+    "clever",
+    "computers",
+    "glasses",
+    "internet",
+    "pizza"
+  ],
+  "Netflix": [
+    "binge watching",
+    "movies",
+    "online",
+    "series",
+    "streaming"
+  ],
+  "Newsletter": [
+    "advertisement",
+    "email",
+    "information",
+    "regular",
+    "schaduled"
+  ],
+  "Online Dating": [
+    "boy-/girlfriend",
+    "flirt",
+    "one night stand",
+    "partner",
+    "relationships"
+  ],
+  "Password": [
+    "PIN",
+    "login",
+    "private",
+    "registration",
+    "secret",
+    "username"
+  ],
+  "PayPal": [
+    "account",
+    "online shopping",
+    "paying",
+    "sending money"
+  ],
+  "Pinterest": [
+    "boards",
+    "images",
+    "quotes",
+    "recipies",
+    "sharing",
+    "social network"
+  ],
+  "Privacy": [
+    "NSA",
+    "Snowden",
+    "data",
+    "details",
+    "personal",
+    "private"
+  ],
+  "Reddit": [
+    "frontpage",
+    "postings",
+    "social network",
+    "subs",
+    "upvote"
+  ],
+  "Signal": [
+    "Edward Snowden",
+    "WhatsApp",
+    "chat",
+    "messages",
+    "messenger"
+  ],
+  "Snapchat": [
+    "Instagram",
+    "images",
+    "social network",
+    "videos"
+  ],
+  "Spam": [
+    "advertisement",
+    "annoying",
+    "email",
+    "fraud",
+    "newsletter"
+  ],
+  "Spotify": [
+    "listening",
+    "music",
+    "playlists",
+    "radio",
+    "streaming"
+  ],
+  "Telegram": [
+    "Signal",
+    "WhatsApp",
+    "chat",
+    "green",
+    "messages",
+    "messenger"
+  ],
+  "Tidal": [
+    "HiFi",
+    "listening",
+    "music",
+    "playlists",
+    "radio",
+    "streaming"
+  ],
+  "Tinder": [
+    "app",
+    "dating",
+    "one night stand",
+    "singles",
+    "swipe"
+  ],
+  "Tweet": [
+    "Twitter",
+    "posting",
+    "short",
+    "threads"
+  ],
+  "Twitch": [
+    "camera",
+    "computer games",
+    "gaming",
+    "steaming"
+  ],
+  "Twitter": [
+    "Facebook",
+    "bird",
+    "blue",
+    "short",
+    "social network"
+  ],
+  "Update": [
+    "application",
+    "downloads",
+    "new version",
+    "software"
+  ],
+  "viral": [
+    "clicks",
+    "famous",
+    "likes",
+    "social network",
+    "views"
+  ],
+  "Virus": [
+    "computer",
+    "dangerous",
+    "malware",
+    "trojan"
+  ],
+  "VPN": [
+    "IP address",
+    "anonymous",
+    "connection",
+    "networks"
+  ],
+  "Webcam": [
+    "Skype",
+    "Zoom",
+    "camera",
+    "streaming",
+    "video"
+  ],
+  "WhatsApp": [
+    "Chat",
+    "Facebook",
+    "Signal",
+    "green",
+    "messages",
+    "messenger"
+  ],
+  "Wikipedia": [
+    "Google",
+    "encyclopedia",
+    "knowledge",
+    "non profit",
+    "research"
+  ],
+  "YouTube": [
+    "Google",
+    "streamer",
+    "streaming",
+    "uploads",
+    "videos"
+  ]
+}

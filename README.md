@@ -2,8 +2,8 @@
 
 ![Current version](https://img.shields.io/github/release/kovah/taboo-data.svg) ![Downloads](https://img.shields.io/npm/dm/taboo-data.svg) [![Build Status](https://img.shields.io/travis/kovah/taboo-data.svg)](https://travis-ci.org/Kovah/Taboo-Data) ![License](https://img.shields.io/github/license/Kovah/Taboo-Data.svg)
 
-A data set for Taboo games. Plain JSON files which contain the keyword
-and some buzzwords like in the original Taboo game.
+A data set for Taboo games. Plain JSON files which contain the keyword, and some buzzwords like in the 
+original Taboo game.
 
 
 ### Data Structure
@@ -23,7 +23,7 @@ or use one of the following methods:
 **Javascript**
 
 ```
-npm install taboo-data --save
+npm install taboo-data
 or
 yarn add taboo-data
 ```
@@ -31,7 +31,7 @@ yarn add taboo-data
 Here's an example on how to use the package with Javascript:
 
 ```javascript
-import TabooData from 'taboo-data';
+import { TabooData } from 'taboo-data';
 
 const categories = TabooData.categories();
 const animals = TabooData.getCategory('animals');
@@ -42,7 +42,7 @@ categories are loaded.
 To import single categories manually or asynchronously, you can call them on their own:
 
 ```javascript
-import { cars } from 'taboo-data/src/data/de/cars';
+import * as cars from 'taboo-data/src/data/de/cars';
 
 const data = cars;
 ```

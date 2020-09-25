@@ -30,5 +30,13 @@
     "web": {
       "text": "Das Internet"
     }
+  },
+  "en": {
+    "people": {
+      "text": "Famous People"
+    },
+    "web": {
+      "text": "The Internet"
+    }
   }
 }
