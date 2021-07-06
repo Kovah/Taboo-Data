@@ -1,0 +1,454 @@
+{
+  "Alfa Romeo": [
+    "Italy",
+    "Turin",
+    "Fiat"
+  ],
+  "BMW Alpina": [
+    "Germany",
+    "tuning",
+    "motorsport",
+    "Bavaria"
+  ],
+  "Aston Martin": [
+    "007",
+    "James Bond",
+    "England",
+    "sports car",
+    "luxury"
+  ],
+  "Audi": [
+    "Germany",
+    "Ingolstadt",
+    "rings",
+    "Volkswagen"
+  ],
+  "Bentley": [
+    "luxury",
+    "England",
+    "Rolls-Royce"
+  ],
+  "BMW": [
+    "Germany",
+    "Mercedes Benz"
+  ],
+  "Bugatti": [
+    "luxury",
+    "sports car",
+    "Volkswagen",
+    "France"
+  ],
+  "Buick": [
+    "America",
+    "United States",
+    "General Motors"
+  ],
+  "Cadillac": [
+    "America",
+    "United States",
+    "General Motors"
+  ],
+  "Chevrolet": [
+    "America",
+    "United States",
+    "General Motors",
+    "Camaro",
+    "Transformers"
+  ],
+  "Chrysler": [
+    "America",
+    "United States",
+    "Dodge"
+  ],
+  "Citroën": [
+    "France",
+    "Peugeot",
+    "small cars"
+  ],
+  "Corvette": [
+    "America",
+    "United States",
+    "sports car"
+  ],
+  "Dacia": [
+    "Romania",
+    "small cars",
+    "cheap",
+    "Duster"
+  ],
+  "Daewoo": [
+    "South Korea",
+    "small cars",
+    "General Motors"
+  ],
+  "DAF": [
+    "trucks",
+    "big rig",
+    "Netherlands",
+    "cargo"
+  ],
+  "Daihatsu": [
+    "Japan",
+    "Toyota",
+    "small cars"
+  ],
+  "De Lorean": [
+    "time machine",
+    "GMC",
+    "Back to the Future",
+    "Marty McFly"
+  ],
+  "De Tomaso": [
+    "Italy",
+    "sports car"
+  ],
+  "Dodge": [
+    "Viper",
+    "America",
+    "United States",
+    "General Motors"
+  ],
+  "Ferrari": [
+    "Italy",
+    "red",
+    "sports car",
+    "luxury",
+    "Michael Schumacher",
+    "Enzo"
+  ],
+  "Fiat": [
+    "Turin",
+    "Italy"
+  ],
+  "Ford": [
+    "America",
+    "United States",
+    "Henry",
+    "F-150",
+    "assembly line"
+  ],
+  "GAZ": [
+    "Russia",
+    "Soviet Union"
+  ],
+  "GMC": [
+    "General Motors",
+    "United States",
+    "multicorporate enterprise"
+  ],
+  "Holden": [
+    "Australia",
+    "General Motors"
+  ],
+  "Honda": [
+    "Japan",
+    "Mitsubishi",
+    "Civic"
+  ],
+  "Hummer": [
+    "Army",
+    "United States",
+    "America"
+  ],
+  "Hyundai": [
+    "South Korea"
+  ],
+  "Infiniti": [
+    "Nissan",
+    "Japan",
+    "luxury"
+  ],
+  "Isuzu": [
+    "Japan",
+    "trucks",
+    "big rig",
+    "cargo"
+  ],
+  "Iveco": [
+    "Italy",
+    "trucks",
+    "big rig",
+    "cargo"
+  ],
+  "Jaguar": [
+    "England",
+    "Land Rover",
+    "luxury",
+    "sports car"
+  ],
+  "Jeep": [
+    "Chrysler",
+    "Army",
+    "America",
+    "United States"
+  ],
+  "Kia": [
+    "South Korea",
+    "Hyundai"
+  ],
+  "Königsegg": [
+    "Sweden",
+    "luxury",
+    "sports car"
+  ],
+  "Lada": [
+    "Russia",
+    "small cars"
+  ],
+  "Lamborghini": [
+    "Italy",
+    "sports car",
+    "luxury",
+    "Volkswagen"
+  ],
+  "Lancia": [
+    "Italy",
+    "small cars",
+    "Fiat"
+  ],
+  "Land Rover": [
+    "England",
+    "Scotland",
+    "Jaguar",
+    "Jeep",
+    "AWD"
+  ],
+  "Lexus": [
+    "Toyota",
+    "luxury",
+    "Japan"
+  ],
+  "Lincoln": [
+    "America",
+    "United States",
+    "Ford",
+    "luxury"
+  ],
+  "Lotus": [
+    "England",
+    "sports car"
+  ],
+  "Maserati": [
+    "Italy",
+    "Fiat",
+    "sports car",
+    "luxury"
+  ],
+  "Maybach": [
+    "Germany",
+    "Mercedes",
+    "luxury"
+  ],
+  "Mazda": [
+    "Japan",
+    "Hiroshima"
+  ],
+  "McLaren": [
+    "England",
+    "luxury",
+    "sports car",
+    "luxury"
+  ],
+  "Mercedes-AMG": [
+    "Germany",
+    "luxury",
+    "tuning"
+  ],
+  "Mercedes-Benz": [
+    "Germany",
+    "Daimler",
+    "Chrysler"
+  ],
+  "MG": [
+    "England"
+  ],
+  "Mini": [
+    "Germany",
+    "England",
+    "BMW",
+    "small",
+    "Mr Bean"
+  ],
+  "Mitsubishi": [
+    "Japan",
+    "Lancer",
+    "Rally"
+  ],
+  "Morgan": [
+    "sports car",
+    "England"
+  ],
+  "Moskwitsch": [
+    "Russia",
+    "Sowjet",
+    "DDR"
+  ],
+  "Nissan": [
+    "Japan",
+    "Skyline",
+    "Datsun"
+  ],
+  "Oldsmobile": [
+    "America",
+    "United States",
+    "General Motors"
+  ],
+  "Opel": [
+    "Germany",
+    "Rüsselsheim",
+    "Vauxhall"
+  ],
+  "Pagani": [
+    "Italy",
+    "sports car",
+    "luxury",
+    "expensive"
+  ],
+  "Peugeot": [
+    "France",
+    "bicycles",
+    "motorcycle"
+  ],
+  "Piaggio": [
+    "Italy",
+    "motorcycles",
+    "moped",
+    "Vespa"
+  ],
+  "Plymouth": [
+    "United States",
+    "Chrysler"
+  ],
+  "Polaris": [
+    "America",
+    "United States",
+    "quads",
+    "snow mobile"
+  ],
+  "Pontiac": [
+    "General Motors",
+    "United States",
+    "America"
+  ],
+  "Porsche": [
+    "Germany",
+    "Stuttgart",
+    "911",
+    "Volkswagen"
+  ],
+  "Renault": [
+    "France",
+    "small cars",
+    "Nissan"
+  ],
+  "Rolls Royce": [
+    "England",
+    "Queen",
+    "luxury",
+    "limousine"
+  ],
+  "Rover": [
+    "England",
+    "Tata",
+    "small cars",
+    "BWM"
+  ],
+  "Saab": [
+    "Sweden",
+    "Scania",
+    "Stockholm"
+  ],
+  "Seat": [
+    "Spanien",
+    "small cars",
+    "Volkswagen"
+  ],
+  "Scania": [
+    "Sweden",
+    "trucks",
+    "big rig",
+    "cargo"
+  ],
+  "Skoda": [
+    "Tschechien",
+    "Volkswagen",
+    "small cars"
+  ],
+  "Smart": [
+    "Germany",
+    "small",
+    "parking space",
+    "Mercedes",
+    "Daimler"
+  ],
+  "Subaru": [
+    "Japan",
+    "Impereza",
+    "Rally"
+  ],
+  "Suzuki": [
+    "Japan",
+    "motorbikes",
+    "Honda"
+  ],
+  "Tesla": [
+    "Elon Musk",
+    "United States",
+    "electric",
+    "sexy"
+  ],
+  "Toyota": [
+    "multicorporate enterprise",
+    "Japan",
+    "Yaris",
+    "Avensis"
+  ],
+  "Trabant": [
+    "Trabbi",
+    "DDR",
+    "VEB",
+    "Germany",
+    "Zwickau"
+  ],
+  "Triumph": [
+    "England",
+    "Motorräder"
+  ],
+  "TVR": [
+    "England",
+    "sports car"
+  ],
+  "UAZ": [
+    "Russia",
+    "Soviet Union",
+    "trucks",
+    "big rig",
+    "cargo"
+  ],
+  "Vauxhall": [
+    "Opel",
+    "England"
+  ],
+  "Volvo": [
+    "Sweden",
+    "trucks",
+    "big rig",
+    "Ford",
+    "cargo"
+  ],
+  "Volkswagen": [
+    "Germany",
+    "Golf",
+    "Passat",
+    "Audi",
+    "Wolfsburg",
+    "multicorporate enterprise"
+  ],
+  "Wartburg": [
+    "Lada",
+    "DDR",
+    "Russia",
+    "Trabbi",
+    "Germany"
+  ]
+}
