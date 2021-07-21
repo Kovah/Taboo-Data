@@ -5,15 +5,28 @@ on:
 
 jobs:
 
+  test-js:
+    name: JS Tests on ${{ matrix.operating-system }}
+    runs-on: ${{ matrix.operating-system }}
+    strategy:
+      matrix:
+        operating-system: [ ubuntu-latest ]
+    steps:
+      - uses: actions/checkout@v1
+
+      - name: Install modules
+        run: npm ci
+
+      - name: Run tests
+        run: npm run test
+
   test-php:
+    name: PHP ${{ matrix.php-versions }} Tests on ${{ matrix.operating-system }}
     runs-on: ${{ matrix.operating-system }}
     strategy:
       matrix:
         operating-system: [ubuntu-latest]
         php-versions: ['7.2', '7.3', '7.4', '8.0']
-
-    name: PHP ${{ matrix.php-versions }} Test on ${{ matrix.operating-system }}
-
     steps:
       - uses: actions/checkout@v1
 
