@@ -6,7 +6,7 @@
 
 ![Current version](https://img.shields.io/github/release/kovah/taboo-data.svg?label=Latest%20Version) [![GitHub Workflow Status (branch)](https://img.shields.io/github/workflow/status/kovah/taboo-data/Testing/main?label=Build%20Status)](https://github.com/Kovah/Taboo-Data/actions) ![License](https://img.shields.io/github/license/Kovah/Taboo-Data.svg?label=License)
 
-A data set for Taboo games. Plain JSON files which contain the keyword, and some buzzwords like in the original Taboo game.
+A data set for Taboo games. Plain JSON files which contain the keyword, and some buzzwords like in the original Taboo game. It was originally created for my [**Taboo browser game**](https://github.com/Kovah/Taboo).
 
 Available languages: English, German
 
@@ -85,6 +85,7 @@ Please open a [new issue](https://github.com/Kovah/Taboo-Data/issues/new) and ex
 
 To contribute words, just add them to the appropriate category and add at least 3-4 buzzwords.
 
+&nbsp;
 
 ---
 
