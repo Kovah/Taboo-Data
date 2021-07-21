@@ -1,0 +1,624 @@
+{
+  "Alpaca": [
+    "South America",
+    "Camel",
+    "Llama",
+    "Wool"
+  ],
+  "Amazon duck": [
+    "South America",
+    "Donald Duck",
+    "bird",
+    "chicken"
+  ],
+  "Anemonefish": [
+    "shark",
+    "sea",
+    "coral"
+  ],
+  "Anteater": [
+    "forest",
+    "tongue",
+    "long"
+  ],
+  "Antelope": [
+    "hop",
+    "safari",
+    "lion"
+  ],
+  "Arctic wolf": [
+    "dog",
+    "howl",
+    "moon",
+    "ice"
+  ],
+  "Asian elephant": [
+    "dumbo",
+    "Africa",
+    "Asia",
+    "trunk"
+  ],
+  "Badger": [
+    "forest",
+    "marten",
+    "carnivore",
+    "predator"
+  ],
+  "Bahama duck": [
+    "Caribbean",
+    "bird",
+    "Donald Duck",
+    "chicken"
+  ],
+  "Bar-headed goose": [
+    "zebra",
+    "fox",
+    "bird",
+    "swan"
+  ],
+  "Bat": [
+    "ultrasonic",
+    "vampire",
+    "night",
+    "fly"
+  ],
+  "Bear": [
+    "grizzly",
+    "teddy",
+    "ted",
+    "honey",
+    "pooh"
+  ],
+  "Bengal Tiger": [
+    "King",
+    "Striped",
+    "Lion"
+  ],
+  "Bison": [
+    "cattle",
+    "bison",
+    "steppe",
+    "America"
+  ],
+  "Bonobo": [
+    "monkey",
+    "chimpanzee",
+    "baboon",
+    "primate"
+  ],
+  "Brewer's duck": [
+    "Donald Duck",
+    "birds",
+    "water",
+    "swan"
+  ],
+  "Butterfly": [
+    "wings",
+    "flowers",
+    "colorful",
+    "meadow"
+  ],
+  "Cat": [
+    "pet",
+    "dog",
+    "meow",
+    "scratch",
+    "claws"
+  ],
+  "Cheetah": [
+    "fast",
+    "mp\/H",
+    "lion",
+    "Africa",
+    "savannah"
+  ],
+  "Chicken goose": [
+    "fox",
+    "bird",
+    "swan",
+    "eggs"
+  ],
+  "Chicken": [
+    "fox",
+    "bird",
+    "swan",
+    "eggs"
+  ],
+  "Chihuahua": [
+    "Paris Hilton",
+    "dog",
+    "small",
+    "foot horn"
+  ],
+  "Chimpanzee": [
+    "monkey",
+    "human",
+    "intelligent",
+    "primate",
+    "orangutan"
+  ],
+  "Chinchilla": [
+    "small",
+    "mouse",
+    "rat",
+    "America"
+  ],
+  "Coati": [
+    "tree",
+    "climbing",
+    "america"
+  ],
+  "Cow": [
+    "stable",
+    "milk",
+    "udder",
+    "milking",
+    "straw"
+  ],
+  "Crocodile": [
+    "water",
+    "alligator"
+  ],
+  "Dog": [
+    "shepherd",
+    "friend",
+    "pet",
+    "bark",
+    "cat"
+  ],
+  "Dolphin": [
+    "whale",
+    "sea",
+    "intelligent",
+    "porpoise"
+  ],
+  "Dwarf donkey": [
+    "Eeyore",
+    "horse",
+    "stupid",
+    "stubborn"
+  ],
+  "Dwarf Otter": [
+    "marten",
+    "dam",
+    "wood",
+    "water"
+  ],
+  "Dwarf penguin": [
+    "south pole",
+    "arctic",
+    "black",
+    "white"
+  ],
+  "Eagle owl": [
+    "glue",
+    "cautz",
+    "owl",
+    "Harry Potter"
+  ],
+  "Electric eel": [
+    "fish",
+    "water",
+    "river",
+    "long",
+    "electricity"
+  ],
+  "Elephant": [
+    "africa",
+    "india",
+    "trunk",
+    "grey",
+    "huge",
+    "mice"
+  ],
+  "Emperor penguin": [
+    "south pole",
+    "arctic",
+    "yellow",
+    "black",
+    "white"
+  ],
+  "Emu": [
+    "bird",
+    "ostrich",
+    "Australia"
+  ],
+  "Ferret": [
+    "marten",
+    "car",
+    "cable",
+    "lltis"
+  ],
+  "Ferruginous Duck": [
+    "chicken",
+    "swamp"
+  ],
+  "Fish": [
+    "water",
+    "swim",
+    "gills",
+    "whale",
+    "salmon",
+    "fishing"
+  ],
+  "Flamingo": [
+    "pink",
+    "bird"
+  ],
+  "Fox": [
+    "red",
+    "fur",
+    "city",
+    "goose"
+  ],
+  "Frog": [
+    "croak",
+    "water",
+    "toad"
+  ],
+  "Giraffe": [
+    "neck",
+    "long",
+    "elephant",
+    "savannah",
+    "Africa"
+  ],
+  "Goat": [
+    "milk",
+    "stable",
+    "mountain",
+    "horns"
+  ],
+  "Gorilla": [
+    "monkey",
+    "chimpanzee",
+    "gray",
+    "roar",
+    "chest"
+  ],
+  "Grey goose": [
+    "fox",
+    "bird",
+    "swan"
+  ],
+  "Grey parrot": [
+    "colorful",
+    "bird"
+  ],
+  "Grizzly": [
+    "brown",
+    "kodiak",
+    "predator",
+    "north america"
+  ],
+  "Guinea Pig": [
+    "Mouse",
+    "pet",
+    "small",
+    "squeak"
+  ],
+  "Hedgehog": [
+    "spines",
+    "small",
+    "city"
+  ],
+  "Hippopotamus": [
+    "hippopotamus",
+    "water",
+    "giant",
+    "rhino"
+  ],
+  "Horse": [
+    "riding",
+    "saddle",
+    "cow",
+    "trotting race"
+  ],
+  "House donkey": [
+    "Eeyore",
+    "horse",
+    "stupid",
+    "stubborn",
+    "gray"
+  ],
+  "Hyena": [
+    "africa",
+    "savannah",
+    "sneaky"
+  ],
+  "Ice fox": [
+    "white",
+    "summer"
+  ],
+  "Jaguar": [
+    "car brand",
+    "cheetah",
+    "lion",
+    "savannah",
+    "africa"
+  ],
+  "Jellyfish": [
+    "transparent",
+    "water",
+    "sea",
+    "nettles"
+  ],
+  "Kangaroo": [
+    "hopping",
+    "boxing",
+    "Australia",
+    "pouch"
+  ],
+  "King python": [
+    "snake",
+    "big",
+    "snares"
+  ],
+  "Koala": [
+    "Australia",
+    "Eucalyptus",
+    "Tree"
+  ],
+  "Leopard": [
+    "cheetah",
+    "cat",
+    "predator"
+  ],
+  "Lion": [
+    "king",
+    "tiger",
+    "cheetah",
+    "Africa",
+    "savannah"
+  ],
+  "Llama": [
+    "spitting",
+    "south america",
+    "guanaco"
+  ],
+  "Maine Coon": [
+    "cat",
+    "fur",
+    "fluff",
+    "claws",
+    "meow"
+  ],
+  "Mandrill": [
+    "primate",
+    "monkey",
+    "butt",
+    "gorilla"
+  ],
+  "Meerkat": [
+    "burrows",
+    "ground",
+    "dig",
+    "stand"
+  ],
+  "Mouse": [
+    "rodent",
+    "rat",
+    "small"
+  ],
+  "Musk ox": [
+    "scent",
+    "perfume",
+    "cattle",
+    "bull"
+  ],
+  "Orangutan": [
+    "orange",
+    "monkey",
+    "primate",
+    "chimpanzee"
+  ],
+  "Otter": [
+    "water",
+    "dam",
+    "wood"
+  ],
+  "Ox": [
+    "cow",
+    "bull",
+    "ring",
+    "nose"
+  ],
+  "Panda": [
+    "black",
+    "white",
+    "clumsy",
+    "China",
+    "bear"
+  ],
+  "Parrot": [
+    "colorful",
+    "red",
+    "bird",
+    "beak"
+  ],
+  "Penguin": [
+    "south pole",
+    "arctic",
+    "yellow",
+    "black",
+    "white"
+  ],
+  "Polar bear": [
+    "grizzly",
+    "teddy",
+    "white",
+    "north pole",
+    "pooh"
+  ],
+  "Rabbit": [
+    "Pet",
+    "Bunny",
+    "Lout",
+    ""
+  ],
+  "Raccoon": [
+    "teddy",
+    "grizzly",
+    "garbage can"
+  ],
+  "Red fox": [
+    "fur",
+    "city",
+    "goose"
+  ],
+  "Reindeer": [
+    "santa claus",
+    "rudolf",
+    "nose",
+    "red",
+    "deer"
+  ],
+  "Rhino": [
+    "hippopotamus",
+    "elephant",
+    "Africa",
+    "savannah"
+  ],
+  "Rock pigeon": [
+    "flying rat",
+    "rock",
+    "gray",
+    "cooing"
+  ],
+  "Royal tiger": [
+    "lion",
+    "big cat"
+  ],
+  "Seahorse": [
+    "water",
+    "sea",
+    "small",
+    "saddle"
+  ],
+  "Seal": [
+    "tricks",
+    "balancing",
+    "water",
+    "sea",
+    "cat"
+  ],
+  "Shark": [
+    "water",
+    "teeth",
+    "surfer",
+    "tornado"
+  ],
+  "Sheepdog": [
+    "police",
+    "friend",
+    "pet",
+    "bark",
+    "cat"
+  ],
+  "Snail": [
+    "slime",
+    "house",
+    "small",
+    "slow"
+  ],
+  "Snow leopard": [
+    "white",
+    "mountain",
+    "cheetah"
+  ],
+  "Snowy owl": [
+    "white",
+    "eagle owl",
+    "head",
+    "bird"
+  ],
+  "Spectacled bear": [
+    "Fielmann",
+    "Grizzly",
+    "America"
+  ],
+  "Spectacled penguin": [
+    "Arctic",
+    "South Pole"
+  ],
+  "Spider": [
+    "web",
+    "fly",
+    "legs",
+    "cellar"
+  ],
+  "Squirrel": [
+    "Forest",
+    "tree",
+    "nuts",
+    "hibernate",
+    "brown"
+  ],
+  "Stone chicken": [
+    "fox",
+    "bird",
+    "swan",
+    "eggs",
+    "gray"
+  ],
+  "Sturgeon catfish": [
+    "fish",
+    "gills"
+  ],
+  "Tank rhinoceros": [
+    "hippopotamus",
+    "elephant",
+    "africa",
+    "savannah",
+    "war"
+  ],
+  "Toad": [
+    "frog",
+    "croak"
+  ],
+  "Walrus": [
+    "water",
+    "horse",
+    "sea",
+    "tusks"
+  ],
+  "Wasp": [
+    "bee",
+    "honey",
+    "sting",
+    "black",
+    "yellow"
+  ],
+  "White rhino": [
+    "mouth",
+    "high",
+    "Africa",
+    "savannah"
+  ],
+  "Wild dog": [
+    "shepherd",
+    "cat",
+    "forest"
+  ],
+  "Wolf": [
+    "wild",
+    "dog",
+    "howl",
+    "moon",
+    "pack"
+  ],
+  "Yak": [
+    "cow",
+    "horns",
+    "asia",
+    "cow"
+  ],
+  "Zebra": [
+    "strip",
+    "elephant",
+    "giraffe",
+    "black",
+    "white",
+    "africa"
+  ]
+}
