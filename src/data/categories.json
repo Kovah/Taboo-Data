@@ -32,8 +32,32 @@
     }
   },
   "en": {
+    "animals": {
+      "text": "Animals"
+    },
+    "cars": {
+      "text": "Cars"
+    },
+    "city-country": {
+      "text": "Cities & Countries"
+    },
+    "food": {
+      "text": "Food & Cooking"
+    },
+    "literature": {
+      "text": "Literature"
+    },
     "people": {
       "text": "Famous People"
+    },
+    "sports": {
+      "text": "Sports"
+    },
+    "things": {
+      "text": "Everyday Things"
+    },
+    "tv": {
+      "text": "Movies & TV Shows"
     },
     "web": {
       "text": "The Internet"
