@@ -1,0 +1,751 @@
+{
+  "Air brake": [
+    "car",
+    "PSI"
+  ],
+  "Airship": [
+    "hindenburg",
+    "helium",
+    "balloon"
+  ],
+  "Antenna": [
+    "TV",
+    "Internet",
+    "WLAN"
+  ],
+  "Atomizer": [
+    "flowers",
+    "glass cleaner"
+  ],
+  "Backpack": [
+    "carry",
+    "bag",
+    "school",
+    "transport"
+  ],
+  "Baking pan": [
+    "cake",
+    "pie"
+  ],
+  "Ball bearing": [
+    "bicycle",
+    "store",
+    "lubricate"
+  ],
+  "Bedding": [
+    "pillow",
+    "blanket",
+    "cover"
+  ],
+  "BluRay": [
+    "DVD",
+    "CD",
+    "movie",
+    "gigabyte"
+  ],
+  "Bowl": [
+    "transport",
+    "food"
+  ],
+  "Broom": [
+    "Cleaning",
+    "sweeping",
+    "cleaning",
+    "sweeping"
+  ],
+  "Butter dish": [
+    "magarine",
+    "can",
+    "refrigerator"
+  ],
+  "Cable drum": [
+    "power",
+    "electricity",
+    "roll up"
+  ],
+  "Cable": [
+    "electricity",
+    "long",
+    "plug",
+    "television"
+  ],
+  "Cake bell": [
+    "cake",
+    "coffee",
+    "transportation"
+  ],
+  "Cake server": [
+    "cake",
+    "coffee",
+    "plate"
+  ],
+  "Can opener": [
+    "canned",
+    "tin can"
+  ],
+  "Carpet cleaner": [],
+  "Carpet": [
+    "laminate",
+    "carpeting",
+    "floor"
+  ],
+  "Cassette recorder": [
+    "obsolete",
+    "tape",
+    "music"
+  ],
+  "CD": [
+    "DVD",
+    "Music"
+  ],
+  "Centrifuge": [
+    "medicine",
+    "spin"
+  ],
+  "Chopsticks": [
+    "wood",
+    "china",
+    "two",
+    "rice"
+  ],
+  "Cleaning bucket": [
+    "cleaning",
+    "mop"
+  ],
+  "Clothesline": [
+    "dry",
+    "hang",
+    "clips"
+  ],
+  "Clothespin": [
+    "clothes",
+    "line",
+    "dry",
+    "hang up"
+  ],
+  "Coat hanger": [
+    "hanging",
+    "closet"
+  ],
+  "Coffee filter": [
+    "machine",
+    "pot"
+  ],
+  "Coffee machine": [
+    "tea",
+    "latte macchiato",
+    "espresso"
+  ],
+  "Coffee maker": [
+    "tea",
+    "filter",
+    "pot"
+  ],
+  "Colander": [
+    "pasta",
+    "draining"
+  ],
+  "Computer mouse": [
+    "keyboard",
+    "PC",
+    "cursor"
+  ],
+  "Computer tomograph": [
+    "Medicine",
+    "doctor",
+    "examination"
+  ],
+  "Computer": [
+    "PC",
+    "laptop",
+    "notebook",
+    "internet"
+  ],
+  "Contact lenses": [
+    "eye",
+    "glasses",
+    "see"
+  ],
+  "Corkscrew": [
+    "wine",
+    "food",
+    "restaurant",
+    "waiter"
+  ],
+  "Credit card": [
+    "money",
+    "plastic",
+    "EC",
+    "bank"
+  ],
+  "Cutlery": [
+    "knife",
+    "spoon",
+    "fork",
+    "food"
+  ],
+  "Cutting board": [
+    "knife",
+    "food",
+    "wood"
+  ],
+  "Digital camera": [
+    "smartphone",
+    "photo",
+    "computer"
+  ],
+  "Dish towels": [
+    "dry",
+    "dry",
+    "wet"
+  ],
+  "Dishes": [
+    "cutlery",
+    "plate",
+    "knife",
+    "fork"
+  ],
+  "Dishwasher": [
+    "hand wash",
+    "plate",
+    "cutlery"
+  ],
+  "Duster": [
+    "cleaning",
+    "cleaning"
+  ],
+  "Dustpan": [
+    "cleaning",
+    "broom",
+    "dirt"
+  ],
+  "DVD": [
+    "movie",
+    "player",
+    "television",
+    "CD"
+  ],
+  "Dynamo": [
+    "bicycle",
+    "lamp",
+    "electricity"
+  ],
+  "Egg cup": [
+    "chicken",
+    "breakfast",
+    "cooked"
+  ],
+  "Egg stove": [
+    "clock",
+    "chicken"
+  ],
+  "Egg timer": [
+    "cooking",
+    "time",
+    "pointer",
+    "chicken"
+  ],
+  "Exercise bike": [
+    "sport",
+    "muscle",
+    "workout"
+  ],
+  "Extension cord": [
+    "power",
+    "television",
+    "outlet"
+  ],
+  "Fan heater": [
+    "wind",
+    "warm",
+    "winter"
+  ],
+  "Fan": [
+    "wind",
+    "air",
+    "cool"
+  ],
+  "Feather duster": [
+    "cleaning",
+    "cleaning"
+  ],
+  "Flag": [
+    "flag",
+    "hoist",
+    "mast",
+    "flap"
+  ],
+  "Flashlight": [
+    "dark",
+    "light",
+    "batteries"
+  ],
+  "Fountain pen": [
+    "elementary school",
+    "write",
+    "ink"
+  ],
+  "Four-stroke engine": [
+    "car",
+    "ignition",
+    "cylinder"
+  ],
+  "Freezer": [
+    "refrigerator",
+    "ice",
+    "cold"
+  ],
+  "Garlic press": [
+    "Vampire",
+    "cut",
+    "food",
+    "Italy"
+  ],
+  "Gas turbine": [
+    "power plant",
+    "fart",
+    "electricity",
+    "airplane"
+  ],
+  "Gasoline engine": [
+    "diesel",
+    "car",
+    "cylinder",
+    "motorcycle"
+  ],
+  "Geiger counter": [
+    "atom",
+    "radiation",
+    "music"
+  ],
+  "Hair dryer \/ blow dryer": [
+    "warm",
+    "hot",
+    "air",
+    "shower",
+    "hair"
+  ],
+  "Hammer": [
+    "nail",
+    "wall",
+    "tool"
+  ],
+  "Hand vacuum cleaner": [
+    "foot",
+    "clean",
+    "cleaning",
+    "dirt"
+  ],
+  "Hard disk": [
+    "computer",
+    "PC",
+    "save",
+    "gigabyte"
+  ],
+  "Heat blanket": [
+    "heat",
+    "pillow",
+    "bed"
+  ],
+  "Heating pad": [
+    "winter",
+    "blanket",
+    "warm"
+  ],
+  "Helicopter": [
+    "rotor",
+    "fly",
+    "airplane"
+  ],
+  "High pressure cleaner": [
+    "PSI",
+    "Kärcher"
+  ],
+  "Home theater": [
+    "movie",
+    "projector",
+    "sound system",
+    "5.1"
+  ],
+  "Household scissors": [
+    "cutting",
+    "apartment"
+  ],
+  "Hovercraft": [
+    "water",
+    "airplane"
+  ],
+  "Humidifier": [
+    "dry",
+    "wet",
+    "wind",
+    "climate"
+  ],
+  "Hydrogen bomb": [
+    "atom",
+    "Einstein",
+    "USA",
+    "explosion"
+  ],
+  "Inkjet printer": [
+    "toner",
+    "paper",
+    "computer"
+  ],
+  "Iron": [
+    "Shirts",
+    "hot",
+    "smooth"
+  ],
+  "Ironing board": [
+    "shirts",
+    "hot",
+    "smooth",
+    "iron"
+  ],
+  "Jet engine": [
+    "fighter pilot",
+    "airplane",
+    "fighter jet",
+    "flying"
+  ],
+  "Jet plane": [
+    "jet",
+    "pilot",
+    "engine"
+  ],
+  "Kettle": [
+    "heat",
+    "tea",
+    "coffee"
+  ],
+  "Keyboard": [
+    "computer",
+    "keys",
+    "input"
+  ],
+  "Kitchen broom": [
+    "cleaning",
+    "sweeping"
+  ],
+  "Kitchen knife": [
+    "cut",
+    "food",
+    "prepare"
+  ],
+  "Kitchen scale": [
+    "food",
+    "weight",
+    "weigh"
+  ],
+  "Kitchen towels": [
+    "zewa",
+    "dry",
+    "stain",
+    "wipe"
+  ],
+  "Ladder": [
+    "climbing",
+    "roof"
+  ],
+  "Laser printer": [
+    "toner",
+    "ink",
+    "paper",
+    "computer"
+  ],
+  "Laundry basket": [
+    "dryer",
+    "carry",
+    "clothes"
+  ],
+  "Light bulb": [
+    "LED",
+    "wire",
+    "light"
+  ],
+  "Longplaying record": [
+    "CD",
+    "vinyl",
+    "music",
+    "sounds"
+  ],
+  "Makeup mirror": [
+    "make up",
+    "carnival",
+    "carnival"
+  ],
+  "Massager": [
+    "soothing",
+    "tension"
+  ],
+  "Monitor": [
+    "computer",
+    "display"
+  ],
+  "Mop": [
+    "mopping",
+    "bucket",
+    "water"
+  ],
+  "Mouse pad": [
+    "computer",
+    "rest",
+    "desk"
+  ],
+  "Multiple socket": [
+    "power",
+    "electricity",
+    "television"
+  ],
+  "Nail scissors": [
+    "fingers",
+    "feet",
+    "manicure"
+  ],
+  "Pacemaker": [
+    "ECG",
+    "infarction"
+  ],
+  "Padlock": [
+    "key",
+    "lock",
+    "cellar"
+  ],
+  "Personal scale": [
+    "fat",
+    "kilogram"
+  ],
+  "Phone": [
+    "long distance",
+    "cell phone",
+    "smart phone"
+  ],
+  "Pillow": [
+    "bed",
+    "sleep"
+  ],
+  "Plunger": [
+    "toilet",
+    "loo",
+    "blockage"
+  ],
+  "Pot": [
+    "tea",
+    "coffee",
+    "transport",
+    "glass"
+  ],
+  "Potato masher": [
+    "mash",
+    "potato"
+  ],
+  "Potato peeler": [
+    "potato"
+  ],
+  "Railroad": [
+    "steam",
+    "rails",
+    "locomotive"
+  ],
+  "Refrigerator": [
+    "freeze",
+    "food",
+    "cold"
+  ],
+  "Salad servers": [
+    "fork",
+    "spoon"
+  ],
+  "Satellite": [
+    "GPS",
+    "space"
+  ],
+  "Scrubber": [
+    "mop",
+    "cleaning",
+    "cleaning"
+  ],
+  "Sewing needle": [
+    "clothes",
+    "hole",
+    "repair"
+  ],
+  "Sewing thread": [
+    "clothes",
+    "hole",
+    "mending"
+  ],
+  "Shoe polisher": [],
+  "Shower curtain": [
+    "tub",
+    "bath",
+    "water"
+  ],
+  "Smartphone": [
+    "mobile",
+    "Apple",
+    "Samsung",
+    "mobile"
+  ],
+  "Solar cell": [
+    "house",
+    "roof",
+    "sun",
+    "electricity"
+  ],
+  "Soldering iron": [
+    "electronics",
+    "tinkering",
+    "building"
+  ],
+  "Spark plug": [
+    "car",
+    "engine",
+    "start"
+  ],
+  "Spray can": [
+    "graffiti",
+    "vandalism",
+    "paint"
+  ],
+  "Steam iron": [
+    "Shirts",
+    "hot",
+    "smooth"
+  ],
+  "Stirring spoon": [
+    "cake",
+    "baking"
+  ],
+  "Streetcar": [
+    "train",
+    "streetcar",
+    "transportation",
+    "public transportation"
+  ],
+  "Sunbed": [
+    "solarium",
+    "tan",
+    "tanning"
+  ],
+  "Tablecloth": [],
+  "Tank": [
+    "war",
+    "steel"
+  ],
+  "Tea pot": [
+    "vessel",
+    "pour"
+  ],
+  "Tea strainer": [
+    "coffee",
+    "brew"
+  ],
+  "Telegraph": [
+    "Telephone",
+    "telex"
+  ],
+  "Toaster": [
+    "bread",
+    "hot",
+    "reheat"
+  ],
+  "Toilet brush": [
+    "toilet",
+    "cleaning"
+  ],
+  "Toilet roll holder": [
+    "toilet",
+    "poop"
+  ],
+  "Toothbrush cup": [
+    "dentist",
+    "brush"
+  ],
+  "Touchpad": [
+    "iPad",
+    "smartphone",
+    "display",
+    "touch"
+  ],
+  "Transistor": [
+    "electronics"
+  ],
+  "Trash can": [
+    "garbage",
+    "garbage can",
+    "organic"
+  ],
+  "Tray": [
+    "food",
+    "transport",
+    "bring",
+    "waiter"
+  ],
+  "Trekking backpack": [
+    "hiking",
+    "transportation",
+    "camping",
+    "luggage"
+  ],
+  "TV": [
+    "boob tube",
+    "TV",
+    "RTL",
+    "ProSieben"
+  ],
+  "Typewriter": [
+    "obsolete",
+    "keys",
+    "paper"
+  ],
+  "USB cable": [
+    "power",
+    "mobile",
+    "smartphone",
+    "computer"
+  ],
+  "USB stick": [
+    "store",
+    "computer",
+    "PC",
+    "hard drive"
+  ],
+  "Vacuum cleaner": [
+    "cleaning",
+    "cleaning",
+    "vacuuming"
+  ],
+  "Wardrobe": [
+    "clothes",
+    "hang",
+    "closet"
+  ],
+  "Washer dryer": [
+    "machine",
+    "clothes",
+    "line"
+  ],
+  "Washing machine": [
+    "dryer",
+    "powder",
+    "fabric softener"
+  ],
+  "Waterbed": [
+    "sleep",
+    "night",
+    "pillow",
+    "comforter"
+  ],
+  "Watering can": [
+    "water",
+    "flowers",
+    "watering"
+  ],
+  "Whisk": [
+    "Egg",
+    "beat",
+    "metal"
+  ]
+}
