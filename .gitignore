@@ -2,5 +2,6 @@
 mix-manifest.json
 composer.lock
 /node_modules
+/scripts/output.txt
 /test
 /vendor/
