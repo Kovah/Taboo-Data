@@ -1,0 +1,775 @@
+{
+  "Applesauce": [
+    "fruit",
+    "tree",
+    "glass",
+    "preserving"
+  ],
+  "Beef patty": [
+    "pork",
+    "ground",
+    "steak"
+  ],
+  "Beef steak": [
+    "meat",
+    "cow",
+    "t-bone",
+    "tenderloin"
+  ],
+  "Beer ham": [
+    "sausage",
+    "alcohol"
+  ],
+  "Beer": [
+    "drink",
+    "bottle",
+    "toast"
+  ],
+  "Big Mac": [
+    "McDonalds",
+    "hamburger",
+    "pattie",
+    "salad"
+  ],
+  "Bratwurst": [
+    "currywurst",
+    "Thüringer",
+    "barbecue"
+  ],
+  "Brown bread": [
+    "toast",
+    "dark",
+    "baking"
+  ],
+  "Budweiser (beer)": [
+    "brewed",
+    "purity law",
+    "drink",
+    "Czech Republic"
+  ],
+  "Burger King": [
+    "McDonalds",
+    "hamburger",
+    "fries",
+    "fast food"
+  ],
+  "Butter": [
+    "magarine",
+    "fat",
+    "roast",
+    "bread"
+  ],
+  "Camembert": [
+    "cheese",
+    "white",
+    "cranberries"
+  ],
+  "Carlsberg (beer)": [
+    "brewed",
+    "purity",
+    "drink",
+    "green"
+  ],
+  "Chicken breast fillet": [
+    "meat",
+    "fine",
+    "eggs"
+  ],
+  "Chocolate": [
+    "cocoa",
+    "Nutella",
+    "Ritter Sport"
+  ],
+  "Ciabatta": [
+    "bread",
+    "baked",
+    "Italy"
+  ],
+  "Cocktail sauce": [
+    "barbecue",
+    "steak"
+  ],
+  "Cola": [
+    "drink",
+    "Fanta",
+    "Sprite",
+    "brown",
+    "Coca"
+  ],
+  "Cornflakes": [
+    "breakfast",
+    "milk",
+    "Kellogs",
+    "cereal"
+  ],
+  "Corona (beer)": [
+    "brewed",
+    "purity",
+    "drink",
+    "tequila"
+  ],
+  "Cream cake": [
+    "cake",
+    "butter",
+    "milk",
+    "sweet",
+    "wedding"
+  ],
+  "Cream cheese": [
+    "butter",
+    "yogurt",
+    "spread",
+    "bread"
+  ],
+  "Cream pudding": [
+    "sweet",
+    "dessert"
+  ],
+  "Cream": [
+    "butter",
+    "milk",
+    "cake",
+    "sundae"
+  ],
+  "Crispbread": [
+    "dry",
+    "hard",
+    "bread",
+    "baked"
+  ],
+  "Croissant": [
+    "Breakfast",
+    "bent",
+    "baked",
+    "sweet",
+    "jam"
+  ],
+  "Croquettes": [
+    "potatoes",
+    "fries",
+    "wedges"
+  ],
+  "Crème fraiche": [
+    "Potatoes",
+    "cream",
+    "cooking",
+    "salad"
+  ],
+  "Currywurst": [
+    "barbecue",
+    "Berlin",
+    "Thüringer"
+  ],
+  "Donut": [
+    "round",
+    "sweet",
+    "glaze",
+    "coffee"
+  ],
+  "Dried fruit": [
+    "wet",
+    "vegetable",
+    "apple",
+    "banana"
+  ],
+  "Duck": [
+    "pond",
+    "christmas",
+    "drake",
+    "goose"
+  ],
+  "Dunkin Donuts": [
+    "coffee",
+    "round",
+    "sweet",
+    "glaze"
+  ],
+  "Döner Kebab": [
+    "Dürum",
+    "falafel",
+    "salad"
+  ],
+  "Dürüm": [
+    "kebab",
+    "falafel",
+    "batter",
+    "salad"
+  ],
+  "Eggs": [
+    "chicken",
+    "round",
+    "white",
+    "mirror",
+    "pan"
+  ],
+  "Falafel": [
+    "kebab",
+    "salad"
+  ],
+  "Fish sticks": [
+    "Iglo",
+    "Captain",
+    "Sea"
+  ],
+  "French Fries": [
+    "McDonalds",
+    "potatoes",
+    "Pommes"
+  ],
+  "Fried potatoes": [
+    "potato",
+    "skillet",
+    "bacon"
+  ],
+  "Frikadelle": [
+    "boulette",
+    "meatball",
+    "meat"
+  ],
+  "Frozen pizza": [
+    "freezing",
+    "ice",
+    "Italy",
+    "salami"
+  ],
+  "Frozen vegetables": [
+    "freezing",
+    "fruit",
+    "ice cream"
+  ],
+  "Fruit juice": [
+    "drink",
+    "apple",
+    "orange",
+    "tree"
+  ],
+  "Fruit": [
+    "vegetable",
+    "apple",
+    "banana",
+    "strawberry"
+  ],
+  "Fruitcake": [
+    "Baking",
+    "apple",
+    "plum",
+    "granny",
+    "vegetable"
+  ],
+  "Goose": [
+    "duck",
+    "Christmas",
+    "turkey"
+  ],
+  "Gouda": [
+    "cheese",
+    "Emmental",
+    "Maßdamer"
+  ],
+  "Green salad": [
+    "ceasar",
+    "tomatoes",
+    "cucumber"
+  ],
+  "Ground beef": [
+    "shredder",
+    "cow",
+    "milk",
+    "boulette"
+  ],
+  "Half-fat butter": [
+    "magarine",
+    "whole",
+    "spread",
+    "bread"
+  ],
+  "Ham and cheese croissant": [
+    "sausage",
+    "breakfast",
+    "Paris",
+    "France"
+  ],
+  "Hamburger": [
+    "McDonalds",
+    "Burger King",
+    "bread",
+    "pattie",
+    "salad"
+  ],
+  "Heineken (beer)": [
+    "brewed",
+    "purity",
+    "drink"
+  ],
+  "Herb curd": [
+    "potatoes",
+    "garden",
+    "parsley"
+  ],
+  "Herring fillet": [
+    "fish",
+    "sea",
+    "fishing",
+    "fine"
+  ],
+  "Hollandaise sauce": [
+    "cutlet",
+    "asparagus",
+    "Holland",
+    "Netherlands"
+  ],
+  "Honey": [
+    "bees",
+    "beekeeper",
+    "sweet",
+    "breakfast",
+    "bear"
+  ],
+  "Hot dog": [
+    "bread",
+    "sausage",
+    "IKEA",
+    "USA"
+  ],
+  "Ice cream": [
+    "summer",
+    "cold",
+    "frozen",
+    "chocolate",
+    "vanilla",
+    "cup"
+  ],
+  "Jack Daniels (whisky)": [
+    "drink",
+    "black"
+  ],
+  "Jello": [
+    "green",
+    "woodruff",
+    "trembling",
+    "sweet",
+    "dessert"
+  ],
+  "Johnnie Walker (whisky)": [
+    "drink",
+    "USA",
+    "go"
+  ],
+  "KFC": [
+    "chicken wings",
+    "fat",
+    "USA",
+    "bucket"
+  ],
+  "Lemonade": [
+    "drink",
+    "cola",
+    "fanta",
+    "sprite"
+  ],
+  "Licorice": [
+    "sweet",
+    "black",
+    "snacking"
+  ],
+  "Liqueur": [
+    "drink",
+    "liquor"
+  ],
+  "Liver sausage": [
+    "spread",
+    "bread",
+    "meat"
+  ],
+  "Mackerel": [
+    "Fish",
+    "Sea",
+    "Fishing"
+  ],
+  "Margarine": [
+    "Butter",
+    "Spread",
+    "Bread"
+  ],
+  "Marmalade": [
+    "Breakfast",
+    "Spread",
+    "Bread",
+    "Strawberries"
+  ],
+  "Marzipan": [
+    "cake",
+    "sweet",
+    "decoration",
+    "white"
+  ],
+  "Mascarpone": [
+    "Tiramisu",
+    "sweet",
+    "heavy",
+    "Italy"
+  ],
+  "Mayonnaise": [
+    "ketchup",
+    "sausage",
+    "fries",
+    "white"
+  ],
+  "McDonalds": [
+    "burger king",
+    "hamburger",
+    "fries",
+    "yellow",
+    "bow"
+  ],
+  "Milk": [
+    "cow",
+    "white",
+    "drink",
+    "cereal",
+    "breakfast",
+    "lactose"
+  ],
+  "Minced meat": [
+    "boulette",
+    "beef",
+    "pork"
+  ],
+  "Mousse": [
+    "chocolate",
+    "airy",
+    "brown",
+    "foam"
+  ],
+  "Mozzarella": [
+    "pizza",
+    "tomato",
+    "Italy",
+    "cheese"
+  ],
+  "Muesli": [
+    "breakfast",
+    "cornflakes",
+    "milk",
+    "bowl"
+  ],
+  "Non-alcoholic beer": [
+    "girl",
+    "drink"
+  ],
+  "Nut nougat cream": [
+    "nutella",
+    "chocolate",
+    "breakfast"
+  ],
+  "Nutella": [
+    "nut nougat cream",
+    "chocolate",
+    "breakfast",
+    "spread"
+  ],
+  "Nuts": [
+    "Macadamia",
+    "fruit",
+    "bowl",
+    "trail mix"
+  ],
+  "Olives": [
+    "oil",
+    "green",
+    "black",
+    "bitter"
+  ],
+  "Oranges": [
+    "Tangerine",
+    "fruit",
+    "Christmas"
+  ],
+  "Pancakes": [
+    "Baking",
+    "sweet",
+    "jam",
+    "dessert",
+    "pie"
+  ],
+  "Pasta": [
+    "spaghetti",
+    "pasta",
+    "tomato sauce",
+    "Italy"
+  ],
+  "Pesto": [
+    "pasta",
+    "spaghetti",
+    "herbs",
+    "paste"
+  ],
+  "Pizza Hut": [
+    "USA",
+    "KFC",
+    "fast food",
+    "red",
+    "Italy"
+  ],
+  "Pollock": [
+    "fish",
+    "sea",
+    "fishing"
+  ],
+  "Popcorn": [
+    "corn",
+    "movie theater",
+    "salt",
+    "butter",
+    "sugar",
+    "snacking"
+  ],
+  "Pork chop": [
+    "meat",
+    "steak",
+    "T-bone",
+    "cow",
+    "beef"
+  ],
+  "Pork cutlet": [
+    "meat",
+    "steak",
+    "T-bone",
+    "cow",
+    "beef",
+    "breading",
+    "fries"
+  ],
+  "Potato chips": [
+    "salty",
+    "nibble",
+    "chio"
+  ],
+  "Potato dumpling dough": [
+    "roast",
+    "red cabbage",
+    "boil"
+  ],
+  "Potato salad": [
+    "potato",
+    "mayonnaise"
+  ],
+  "Potatoes": [
+    "earth apple",
+    "brown",
+    "cooking",
+    "fries"
+  ],
+  "Pudding": [
+    "chocolate",
+    "vanilla",
+    "sweet",
+    "dessert"
+  ],
+  "Puff pastry": [
+    "paper",
+    "sweet",
+    "cake",
+    "baking"
+  ],
+  "Rice crackers": [
+    "white",
+    "air",
+    "snacking",
+    "breaking"
+  ],
+  "Rice": [
+    "asia",
+    "china",
+    "white",
+    "grain",
+    "chopsticks"
+  ],
+  "Roast Chicken": [
+    "Broiler",
+    "oven",
+    "chicken wings",
+    "skin"
+  ],
+  "Rollmops": [
+    "Fish",
+    "Bread",
+    "Herring"
+  ],
+  "Rolls": [
+    "Schrippe",
+    "Semmel",
+    "baked",
+    "bakers"
+  ],
+  "Salad dressing": [
+    "tomato",
+    "herbs",
+    "ceasar",
+    "yogurt"
+  ],
+  "Salami": [
+    "sausage",
+    "pork",
+    "mince",
+    "topping"
+  ],
+  "Salmon": [
+    "fish",
+    "sea",
+    "fishing",
+    "tuna fish"
+  ],
+  "Saltines": [
+    "brown",
+    "pretzels",
+    "nibbles"
+  ],
+  "Semolina pudding": [
+    "dessert",
+    "sweet",
+    "cherries",
+    "rice pudding"
+  ],
+  "Shrimp": [
+    "Sea",
+    "Fruit",
+    "Sushi"
+  ],
+  "Soup": [
+    "liquid",
+    "water",
+    "herbs",
+    "broth"
+  ],
+  "Sour cream": [
+    "sweet",
+    "salty",
+    "butter",
+    "milk"
+  ],
+  "Sparkling wine": [
+    "drink",
+    "carbonated",
+    "toast",
+    "new year's eve"
+  ],
+  "Speisequark": [
+    "potatoes",
+    "herbs",
+    "yogurt",
+    "cream"
+  ],
+  "Sponge cake": [
+    "Bake",
+    "granny",
+    "stick"
+  ],
+  "Spätzle": [
+    "noodles",
+    "dough",
+    "Austria"
+  ],
+  "Starbucks": [
+    "coffee",
+    "expensive",
+    "cup",
+    "green",
+    "USA",
+    "hipster"
+  ],
+  "Steak": [
+    "meat",
+    "cutlet",
+    "fries",
+    "t-bone",
+    "filet"
+  ],
+  "Subway": [
+    "sandwich",
+    "salad",
+    "meat",
+    "USA",
+    "fast food",
+    "cookies",
+    "cookies"
+  ],
+  "Sunflower oil": [
+    "canola",
+    "olive oil",
+    "frying",
+    "cooking",
+    "butter"
+  ],
+  "Sushi": [
+    "fish",
+    "seaweed",
+    "rice",
+    "Asia",
+    "China",
+    "Japan"
+  ],
+  "Tiramisu": [
+    "mascarpone",
+    "coffee",
+    "biscuit",
+    "cake",
+    "Italy"
+  ],
+  "Toast Hawaii": [
+    "pineapple",
+    "ham",
+    "bread",
+    "USA",
+    "state"
+  ],
+  "Toast": [
+    "bread",
+    "baking",
+    "white",
+    "light"
+  ],
+  "Tomato sauce": [
+    "pasta",
+    "spaghetti",
+    "red",
+    "bolognese"
+  ],
+  "Trout": [
+    "fish",
+    "sea",
+    "fishing"
+  ],
+  "Vegetables": [
+    "fruit",
+    "salad",
+    "tomato"
+  ],
+  "Whiskey": [
+    "drink",
+    "spirit",
+    "scotland",
+    "brown"
+  ],
+  "White bread": [
+    "toast",
+    "light",
+    "dark",
+    "black"
+  ],
+  "Wiener": [
+    "Hot Dog",
+    "Bread",
+    "Austria"
+  ],
+  "Wine": [
+    "drink",
+    "red",
+    "white",
+    "adult"
+  ],
+  "Yogurt": [
+    "sweet",
+    "dessert"
+  ]
+}
