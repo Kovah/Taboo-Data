@@ -1,0 +1,671 @@
+{
+  "12 Monkeys": [
+    "Bruce Willis",
+    "Thriller",
+    "Brad Pitt"
+  ],
+  "12 Years a Slave": [
+    "black man",
+    "United States",
+    "Drama"
+  ],
+  "2001: A Space Odyssey": [
+    "Stanley Kubrick",
+    "Sci Fi",
+    "HAL 9000",
+    "space"
+  ],
+  "A Beautiful Mind": [
+    "Russell Crowe",
+    "Ed Harris",
+    "CIA",
+    "schizophrenia",
+    "cryptography"
+  ],
+  "Alien": [
+    "Sigourney Weaver",
+    "UFO",
+    "space",
+    "horror"
+  ],
+  "American Beauty": [
+    "Kevin Spacey",
+    "Annette Bening",
+    "drama",
+    "rose"
+  ],
+  "American History X": [
+    "Edward Norton",
+    "neo-nazi",
+    "skinhead",
+    "Hitler",
+    "swastika"
+  ],
+  "Amélie": [
+    "Drama",
+    "Romance",
+    "Paris",
+    "France"
+  ],
+  "Apocalypse Now": [
+    "Francis Ford Coppola",
+    "Vietnam",
+    "helicopters",
+    "U.S. Army"
+  ],
+  "Back to the Future": [
+    "time travelling",
+    "Marty McFly",
+    "Doc Emmett Brown",
+    "DeLorean",
+    "Lorraine Baines"
+  ],
+  "Batman Begins": [
+    "Christian Bale",
+    "Joker",
+    "Gotham City",
+    "Dark Knight"
+  ],
+  "Ben Hur": [
+    "Charlton Heston",
+    "Jewish prince"
+  ],
+  "Braveheart": [
+    "Mel Gibson",
+    "Scotland",
+    "rebellion",
+    "King Edward I of England"
+  ],
+  "Casablanca": [
+    "Drama",
+    "Humphrey Bogart",
+    "Nazis",
+    "French Morocco"
+  ],
+  "Casino": [
+    "Drama",
+    "Robert De Niro",
+    "Martin Scorsese",
+    "Mafia",
+    "gambling"
+  ],
+  "Catch Me If You Can": [
+    "Comedy",
+    "Leonardo DiCaprio",
+    "Tom Hanks",
+    "PanAm",
+    "airplane pilot"
+  ],
+  "Citizen Kane": [
+    "Orson Welles",
+    "Drama",
+    "Rosebud",
+    "Charles Foster Kane"
+  ],
+  "City of God": [
+    "Drama",
+    "Rio de Janeiro",
+    "Brasil",
+    "photographer"
+  ],
+  "Das Boot": [
+    "Thriller",
+    "Wolfgang Petersen",
+    "Germany",
+    "World War II",
+    "u-boat"
+  ],
+  "Deadpool": [
+    "Action",
+    "Ryan Reynolds",
+    "red suit",
+    "mercenary"
+  ],
+  "Der Blade Runner": [
+    "Action",
+    "Sci Fi",
+    "Harrison Ford",
+    "original"
+  ],
+  "Der König der Löwen": [
+    "Disney",
+    "Simba",
+    "Timon",
+    "Pumba"
+  ],
+  "Die Hard": [
+    "Action",
+    "Bruce Willis",
+    "Nakatomi Plaza",
+    "christmas",
+    "German terrorists"
+  ],
+  "Django Unchained": [
+    "Action",
+    "Jamie Foxx",
+    "Quentin Tarantino",
+    "Leonardo DiCaprio",
+    "Mississippi"
+  ],
+  "Donnie Darko": [
+    "Drama",
+    "Jake Gyllenhaal",
+    "rabbit"
+  ],
+  "Downfall": [
+    "Drama",
+    "Adolf Hitler",
+    "World War II",
+    "Berlin bunker"
+  ],
+  "Fight Club": [
+    "Thriller",
+    "Rule number one",
+    "Brad Pitt",
+    "Edward Norton",
+    "underground"
+  ],
+  "Findet Nemo": [
+    "Disney",
+    "Pixar",
+    "Great Barrier Reef",
+    "orange clownfish",
+    "Marlin",
+    "Dory"
+  ],
+  "Forrest Gump": [
+    "Drama",
+    "Tom Hanks",
+    "Vietnam War",
+    "Baba",
+    "Shrimp",
+    "Football"
+  ],
+  "Full Metal Jacket": [
+    "Action",
+    "Stanley Kubrick",
+    "Vietnam War",
+    "Gny. Sgt. Hartman",
+    "R. Lee Ermey"
+  ],
+  "Gladiator": [
+    "Action",
+    "Roman General",
+    "Russell Crowe",
+    "slavery",
+    "Colosseum"
+  ],
+  "Gone with the Wind": [
+    "American Civil War",
+    "Drama",
+    "Romance",
+    "Clark Gable"
+  ],
+  "Good Will Hunting": [
+    "Drama",
+    "Robin Williams",
+    "Matt Damon",
+    "mathematics"
+  ],
+  "Goodfellas": [
+    "Drama",
+    "Robert De Niro",
+    "Mafia",
+    "Henry Hill"
+  ],
+  "Gran Torino": [
+    "Drama",
+    "Clint Eastwood",
+    "Korean War veteran",
+    "car"
+  ],
+  "Grand Budapest Hotel": [
+    "Comedy",
+    "Indie",
+    "Ralph Fiennes",
+    "lobby boy"
+  ],
+  "Guardians of the Galaxy": [
+    "Action",
+    "Marvel",
+    "Peter Quill",
+    "Groot",
+    "Star-Lord"
+  ],
+  "Harry Potter": [
+    "Witchcraft and Wizardry",
+    "Hogwarts",
+    "Ron & Hermine",
+    "Dumbledore",
+    "Voldemort"
+  ],
+  "How to Train Your Dragon": [
+    "Disney",
+    "Pixar",
+    "Viking"
+  ],
+  "Inception": [
+    "Action",
+    "Christopher Nolan",
+    "Leonardo DiCaprio",
+    "lucid dreaming",
+    "thoughts"
+  ],
+  "Indiana Jones and the Last Crusade": [
+    "Action",
+    "Indie",
+    "Harrison Ford",
+    "Sean Connery",
+    "Germany",
+    "World War II"
+  ],
+  "Inglourious Basterds": [
+    "Quentin Tarantino",
+    "Brad Pitt",
+    "World War II",
+    "U.S. Army",
+    "Nazis"
+  ],
+  "Inside Out": [
+    "Disney",
+    "feelings",
+    "emotions"
+  ],
+  "Interstellar": [
+    "Sci Fi",
+    "Matthew McConaughey",
+    "space",
+    "wormhole",
+    "black hole"
+  ],
+  "Into the Wild": [
+    "Drama",
+    "nature",
+    "camping",
+    "Christopher McCandless"
+  ],
+  "Jaws": [
+    "Thriller",
+    "shark",
+    "beach",
+    "surfing"
+  ],
+  "Jurassic Park": [
+    "dinosaurs",
+    "Steven Spielberg",
+    "T-Rex",
+    "John Hammond"
+  ],
+  "Kill Bill: Vol. 1": [
+    "Action",
+    "Quentin Tarantino",
+    "Uma Thurman",
+    "katana",
+    "yellow"
+  ],
+  "LA Confidential": [
+    "Thriller",
+    "Kevin Spacey",
+    "Los Angeles",
+    "police"
+  ],
+  "Lawrence of Arabia": [
+    "T.E. Lawrence",
+    "World War I",
+    "Peter O'Toole"
+  ],
+  "Lock, Stock and Two Smoking Barrels": [
+    "Guy Ritchie",
+    "Action",
+    "Comedy",
+    "Hatchet Harry"
+  ],
+  "Léon - Der Profi": [
+    "Drama",
+    "Jean Reno",
+    "Mathilda",
+    "professional assassin"
+  ],
+  "Mad Max: Fury Road": [
+    "Action",
+    "Tom Hardy",
+    "post-apocalyptic wasteland",
+    "Witness me"
+  ],
+  "Memento": [
+    "Christopher Nolan",
+    "short-term memory",
+    "murderer",
+    "Leonard"
+  ],
+  "Million Dollar Baby": [
+    "Drama",
+    "Clint Eastwood",
+    "professional boxing"
+  ],
+  "Monsters, Inc.": [
+    "Disney",
+    "Pixar",
+    "Mike",
+    "Sullivan",
+    "Boo"
+  ],
+  "Monty Python and the Holy Grail": [
+    "King Arthur",
+    "tis but a scratch",
+    "Knights of the Round Table",
+    "blue.. no, red! Aaaaah"
+  ],
+  "Monty Python's Life of Brian": [
+    "Comedy",
+    "Jesus Christ",
+    "Brian of Nazareth",
+    "People's Front of Judea",
+    "Holy Bible"
+  ],
+  "No Country for Old Men": [
+    "Drama",
+    "Tommy Lee Jones",
+    "drug dealing",
+    "Rio Grande"
+  ],
+  "Once Upon a Time in the West": [
+    "Henry Fonda",
+    "harmonica",
+    "wild west"
+  ],
+  "Pirates of the Caribbean": [
+    "Captain Jack Sparrow",
+    "Will Turner",
+    "Johnny Depp",
+    "Orlando Bloom"
+  ],
+  "Platoon": [
+    "Action",
+    "Vietnam War",
+    "Charlie Sheen",
+    "Chris Taylor"
+  ],
+  "Psycho": [
+    "Alfred Hitchcock",
+    "Thriller",
+    "bathroom",
+    "knife"
+  ],
+  "Pulp Fiction": [
+    "Quentin Tarantino",
+    "John Travolta",
+    "Samuel L. Jackson",
+    "dancing",
+    "Ezekiel 25:17"
+  ],
+  "Reservoir Dogs": [
+    "Action",
+    "jewelry heist",
+    "Quentin Tarantino"
+  ],
+  "Rocky": [
+    "Sylvester Stallone",
+    "heavyweight boxing champion",
+    "Eye of the tiger"
+  ],
+  "Saving Private Ryan": [
+    "War",
+    "Normandy",
+    "U.S. Army",
+    "Captain Miller",
+    "Tom Hanks",
+    "Matt Damon"
+  ],
+  "Scarface": [
+    "Action",
+    "Tony Montana",
+    "drug dealer",
+    "Miami",
+    "drug cartel"
+  ],
+  "Schindler's List": [
+    "Drama",
+    "Biography",
+    "Liam Neeson",
+    "World War II",
+    "Nazis"
+  ],
+  "Se7en": [
+    "Thriller",
+    "Morgan Freeman",
+    "Brad Pitt",
+    "serial killer",
+    "deadly sins"
+  ],
+  "Shining": [
+    "Thriller",
+    "Stanley Kubrick",
+    "Jack Nicholson",
+    "hotel",
+    "axe"
+  ],
+  "Shutter Island": [
+    "Thriller",
+    "Leonardo DiCaprio",
+    "Teddy Daniels",
+    "Andrew Laeddis",
+    "Ashecliffe Hospital",
+    "psychiatry"
+  ],
+  "Sin City": [
+    "Action",
+    "black white",
+    "red",
+    "Bruce Willis",
+    "blood"
+  ],
+  "Star Wars: Episode IV - A New Hope": [
+    "Luke Skywalker",
+    "Jedi",
+    "Yoda",
+    "Han Solo",
+    "Darth Vader",
+    "Princess Leia"
+  ],
+  "Taxi Driver": [
+    "Martin Scorsese",
+    "Drama",
+    "cab",
+    "New York City"
+  ],
+  "The Avengers": [
+    "Action",
+    "Marvel",
+    "Iron Man",
+    "Captain America",
+    "Thor",
+    "Black Widow"
+  ],
+  "The Big Lebowski": [
+    "Drama",
+    "The Dude",
+    "bowling",
+    "Jeff Bridges",
+    "Moscow mule"
+  ],
+  "The Bourne Ultimatum": [
+    "Action",
+    "CIA",
+    "Jason Bourne",
+    "assassination"
+  ],
+  "The Dark Knight": [
+    "Christian Bale",
+    "Joker",
+    "Gotham City",
+    "Batman"
+  ],
+  "The Departed": [
+    "Thriller",
+    "Leonardo DiCaprio",
+    "Matt Damon",
+    "South Boston"
+  ],
+  "The Godfather": [
+    "Thriller",
+    "Marlon Brando",
+    "Mafia",
+    "Don Vito Corleone",
+    "offer you can't refuse"
+  ],
+  "The Good, the Bad and the Ugly": [
+    "Clint Eastwood",
+    "wild west",
+    "cowboys"
+  ],
+  "The Great Dictator": [
+    "Charles Chaplin",
+    "silent film",
+    "Comedy",
+    "Hitler",
+    "Nazi"
+  ],
+  "The Green Mile": [
+    "Drama",
+    "Stephen King",
+    "Tom Hanks",
+    "Death Row"
+  ],
+  "The Intouchables": [
+    "Drama",
+    "Omar Sy",
+    "quadriplegic",
+    "Driss & Philippe",
+    "wheelchair"
+  ],
+  "The Lives of Others": [
+    "Drama",
+    "Germany",
+    "DDR",
+    "Stasi",
+    "East Berlin"
+  ],
+  "The Lord of the Rings": [
+    "One Ring",
+    "Frodo & Sam",
+    "Hobbit",
+    "Gandalf",
+    "Middle Earth",
+    "J.R.R. Tolkien"
+  ],
+  "The Martian": [
+    "Bring him Home",
+    "space",
+    "Matt Damon",
+    "astronaut",
+    "NASA"
+  ],
+  "The Matrix": [
+    "green",
+    "Neo",
+    "Morpheus",
+    "Agent Smith",
+    "Keanu Reeves"
+  ],
+  "The Pianist": [
+    "Drama",
+    "Adrien Brody",
+    "Polish Jewish musician",
+    "World War II",
+    "keyboard"
+  ],
+  "The Revenant - Der Rückkehrer": [
+    "Drama",
+    "Leonardo DiCaprio",
+    "Oscar",
+    "wilderness survival",
+    "bear"
+  ],
+  "The Shawshank Redemption": [
+    "Drama",
+    "Tim Robbins",
+    "Morgan Freeman",
+    "imprisoned men",
+    "escape"
+  ],
+  "The Silence of the Lambs": [
+    "Anthony Hopkins",
+    "Jodie Foster",
+    "Dr. Hannibal Lecter",
+    "cannibal"
+  ],
+  "The Sixth Sense": [
+    "Drama",
+    "spirits",
+    "child psychologist",
+    "Bruce Willis"
+  ],
+  "The Terminator": [
+    "Action",
+    "Arnold Schwarzenegger",
+    "time traveling",
+    "I am back"
+  ],
+  "The Truman Show": [
+    "Drama",
+    "live",
+    "Jim Carrey",
+    "reality TV show",
+    "cameras"
+  ],
+  "The Usual Suspects": [
+    "Drama",
+    "Kevin Spacey",
+    "gun battle",
+    "police lineup"
+  ],
+  "The Wizard of Oz": [
+    "Adventure",
+    "Dorothy Gale",
+    "wizard",
+    "Judy Garland",
+    "Fantasy"
+  ],
+  "The Wolf of Wall Street": [
+    "Drama",
+    "Comedy",
+    "Leonardo DiCaprio",
+    "penny stocks",
+    "Jordan Belfort"
+  ],
+  "Toy Story": [
+    "Disney",
+    "Pixar",
+    "Woody",
+    "Buzz Lightyear",
+    "Sid"
+  ],
+  "Up": [
+    "Disney",
+    "Pixar",
+    "Carl Fredricksen",
+    "house",
+    "balloons"
+  ],
+  "V for Vendetta": [
+    "Action",
+    "freedom fighter",
+    "Hugo Weaving",
+    "Guy Fawkes mask"
+  ],
+  "WALL·E": [
+    "Disney",
+    "Pixar",
+    "robots",
+    "Eve",
+    "space"
+  ],
+  "Zootopia": [
+    "Disney",
+    "Pixar",
+    "animals",
+    "rabbit",
+    "police"
+  ]
+}

@@ -11,6 +11,10 @@ class PhpHelperTest extends TestCase
         $this->assertArrayHasKey('de', $loadedCategories);
         $this->assertArrayHasKey('animals', $loadedCategories['de']);
         $this->assertArrayHasKey('text', $loadedCategories['de']['animals']);
+
+        $this->assertArrayHasKey('en', $loadedCategories);
+        $this->assertArrayHasKey('animals', $loadedCategories['en']);
+        $this->assertArrayHasKey('text', $loadedCategories['en']['animals']);
     }
 
     public function testGetValidCategory(): void
@@ -31,7 +35,7 @@ class PhpHelperTest extends TestCase
 
     public function testGetValidCategoryWithLanguage(): void
     {
-        $data = \Kovah\TabooData::getCategory('de/animals');
+        $data = \Kovah\TabooData::getCategory('animals', 'de');
 
         $this->assertIsArray($data);
         $this->assertNotEmpty($data);
@@ -43,6 +47,18 @@ class PhpHelperTest extends TestCase
             \Kovah\TabooData::getCategory('not-existing-category');
         } catch (\Exception $e) {
             $this->assertEquals($e->getMessage(), 'File not found');
+            return;
+        }
+
+        $this->fail();
+    }
+
+    public function testValidCategoryWithInvalidLanguage(): void
+    {
+        try {
+            \Kovah\TabooData::getCategory('animals', 'fr');
+        } catch (\Exception $e) {
+            $this->assertEquals($e->getMessage(), 'The language fr is not available.');
             return;
         }
 

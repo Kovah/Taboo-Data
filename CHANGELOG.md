@@ -1,5 +1,15 @@
 # Changelog
 
+### 2.0
+* New Language: English
+* English is the new default language.
+* Breaking changes: PHP and JS helpers were rewritten to take the language into account.
+* JS helper now completely uses JS modules.
+* Minor updates for the German dataset
+
+### 1.0.1
+* Adds missing categories to the JS helper.
+
 ### 1.0.0
 * Refactoring of the data structure to pure JSON
 * Added helper files for PHP and JS

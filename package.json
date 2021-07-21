@@ -1,6 +1,6 @@
 {
   "name": "taboo-data",
-  "version": "1.0.1",
+  "version": "2.0.0",
   "type": "module",
   "main": "./src/TabooData.js",
   "description": "A dataset for Taboo games",
@@ -19,5 +19,11 @@
   },
   "bugs": {
     "url": "https://github.com/Kovah/Taboo-Data/issues"
+  },
+  "devDependencies": {
+    "jest": "^27.0.6"
+  },
+  "scripts": {
+    "test": "node --experimental-vm-modules node_modules/.bin/jest"
   }
 }

@@ -1,0 +1,1985 @@
+{
+  "Afghanistan": [
+    "Asia",
+    "Southern Asia",
+    "Kabul"
+  ],
+  "Åland Islands": [
+    "Europe",
+    "Northern Europe",
+    "Mariehamn"
+  ],
+  "Albania": [
+    "Europe",
+    "Southern Europe",
+    "Tirana"
+  ],
+  "Algeria": [
+    "Africa",
+    "Northern Africa",
+    "Algiers"
+  ],
+  "American Samoa": [
+    "Oceania",
+    "Polynesia",
+    "Pago Pago"
+  ],
+  "Andorra": [
+    "Europe",
+    "Southern Europe",
+    "Andorra la Vella"
+  ],
+  "Angola": [
+    "Africa",
+    "Middle Africa",
+    "Luanda"
+  ],
+  "Anguilla": [
+    "Americas",
+    "Caribbean",
+    "The Valley"
+  ],
+  "Antarctica": [
+    "Polar"
+  ],
+  "Antigua and Barbuda": [
+    "Americas",
+    "Caribbean",
+    "Saint John's"
+  ],
+  "Argentina": [
+    "Americas",
+    "South America",
+    "Buenos Aires"
+  ],
+  "Armenia": [
+    "Asia",
+    "Western Asia",
+    "Yerevan"
+  ],
+  "Aruba": [
+    "Americas",
+    "Caribbean",
+    "Oranjestad"
+  ],
+  "Australia": [
+    "Oceania",
+    "Australia and New Zealand",
+    "Canberra"
+  ],
+  "Austria": [
+    "Europe",
+    "Western Europe",
+    "Vienna"
+  ],
+  "Azerbaijan": [
+    "Asia",
+    "Western Asia",
+    "Baku"
+  ],
+  "Bahamas": [
+    "Americas",
+    "Caribbean",
+    "Nassau"
+  ],
+  "Bahrain": [
+    "Asia",
+    "Western Asia",
+    "Manama"
+  ],
+  "Bangladesh": [
+    "Asia",
+    "Southern Asia",
+    "Dhaka"
+  ],
+  "Barbados": [
+    "Americas",
+    "Caribbean",
+    "Bridgetown"
+  ],
+  "Belarus": [
+    "Europe",
+    "Eastern Europe",
+    "Minsk"
+  ],
+  "Belgium": [
+    "Europe",
+    "Western Europe",
+    "Brussels"
+  ],
+  "Belize": [
+    "Americas",
+    "Central America",
+    "Belmopan"
+  ],
+  "Benin": [
+    "Africa",
+    "Western Africa",
+    "Porto-Novo"
+  ],
+  "Bermuda": [
+    "Americas",
+    "Northern America",
+    "Hamilton"
+  ],
+  "Bhutan": [
+    "Asia",
+    "Southern Asia",
+    "Thimphu"
+  ],
+  "Bolivia (Plurinational State of)": [
+    "Americas",
+    "South America",
+    "Sucre"
+  ],
+  "Bonaire, Sint Eustatius and Saba": [
+    "Americas",
+    "Caribbean",
+    "Kralendijk"
+  ],
+  "Bosnia and Herzegovina": [
+    "Europe",
+    "Southern Europe",
+    "Sarajevo"
+  ],
+  "Botswana": [
+    "Africa",
+    "Southern Africa",
+    "Gaborone"
+  ],
+  "Bouvet Island": [],
+  "Brazil": [
+    "Americas",
+    "South America",
+    "Brasília"
+  ],
+  "British Indian Ocean Territory": [
+    "Africa",
+    "Eastern Africa",
+    "Diego Garcia"
+  ],
+  "United States Minor Outlying Islands": [
+    "Americas",
+    "Northern America"
+  ],
+  "Virgin Islands (British)": [
+    "Americas",
+    "Caribbean",
+    "Road Town"
+  ],
+  "Virgin Islands (U.S.)": [
+    "Americas",
+    "Caribbean",
+    "Charlotte Amalie"
+  ],
+  "Brunei Darussalam": [
+    "Asia",
+    "South-Eastern Asia",
+    "Bandar Seri Begawan"
+  ],
+  "Bulgaria": [
+    "Europe",
+    "Eastern Europe",
+    "Sofia"
+  ],
+  "Burkina Faso": [
+    "Africa",
+    "Western Africa",
+    "Ouagadougou"
+  ],
+  "Burundi": [
+    "Africa",
+    "Eastern Africa",
+    "Bujumbura"
+  ],
+  "Cambodia": [
+    "Asia",
+    "South-Eastern Asia",
+    "Phnom Penh"
+  ],
+  "Cameroon": [
+    "Africa",
+    "Middle Africa",
+    "Yaoundé"
+  ],
+  "Canada": [
+    "Americas",
+    "Northern America",
+    "Ottawa"
+  ],
+  "Cabo Verde": [
+    "Africa",
+    "Western Africa",
+    "Praia"
+  ],
+  "Cayman Islands": [
+    "Americas",
+    "Caribbean",
+    "George Town"
+  ],
+  "Central African Republic": [
+    "Africa",
+    "Middle Africa",
+    "Bangui"
+  ],
+  "Chad": [
+    "Africa",
+    "Middle Africa",
+    "N'Djamena"
+  ],
+  "Chile": [
+    "Americas",
+    "South America",
+    "Santiago"
+  ],
+  "China": [
+    "Asia",
+    "Eastern Asia",
+    "Beijing",
+    "Hong Kong"
+  ],
+  "Christmas Island": [
+    "Oceania",
+    "Australia and New Zealand",
+    "Flying Fish Cove"
+  ],
+  "Cocos (Keeling) Islands": [
+    "Oceania",
+    "Australia and New Zealand",
+    "West Island"
+  ],
+  "Colombia": [
+    "Americas",
+    "South America",
+    "Bogotá"
+  ],
+  "Comoros": [
+    "Africa",
+    "Eastern Africa",
+    "Moroni"
+  ],
+  "Congo": [
+    "Africa",
+    "Middle Africa",
+    "Brazzaville"
+  ],
+  "Congo (Democratic Republic of the)": [
+    "Africa",
+    "Middle Africa",
+    "Kinshasa"
+  ],
+  "Cook Islands": [
+    "Oceania",
+    "Polynesia",
+    "Avarua"
+  ],
+  "Costa Rica": [
+    "Americas",
+    "Central America",
+    "San José"
+  ],
+  "Croatia": [
+    "Europe",
+    "Southern Europe",
+    "Zagreb"
+  ],
+  "Cuba": [
+    "Americas",
+    "Caribbean",
+    "Havana"
+  ],
+  "Curaçao": [
+    "Americas",
+    "Caribbean",
+    "Willemstad"
+  ],
+  "Cyprus": [
+    "Europe",
+    "Southern Europe",
+    "Nicosia"
+  ],
+  "Czech Republic": [
+    "Europe",
+    "Eastern Europe",
+    "Prague"
+  ],
+  "Denmark": [
+    "Europe",
+    "Northern Europe",
+    "Copenhagen",
+    "Lego"
+  ],
+  "Djibouti": [
+    "Africa",
+    "Eastern Africa",
+    "Djibouti"
+  ],
+  "Dominica": [
+    "Americas",
+    "Caribbean",
+    "Roseau"
+  ],
+  "Dominican Republic": [
+    "Americas",
+    "Caribbean",
+    "Santo Domingo"
+  ],
+  "Ecuador": [
+    "Americas",
+    "South America",
+    "Quito"
+  ],
+  "Egypt": [
+    "Africa",
+    "Northern Africa",
+    "Cairo"
+  ],
+  "El Salvador": [
+    "Americas",
+    "Central America",
+    "San Salvador"
+  ],
+  "Equatorial Guinea": [
+    "Africa",
+    "Middle Africa",
+    "Malabo"
+  ],
+  "Eritrea": [
+    "Africa",
+    "Eastern Africa",
+    "Asmara"
+  ],
+  "Estonia": [
+    "Europe",
+    "Northern Europe",
+    "Tallinn"
+  ],
+  "Ethiopia": [
+    "Africa",
+    "Eastern Africa",
+    "Addis Ababa"
+  ],
+  "Falkland Islands (Malvinas)": [
+    "Americas",
+    "South America",
+    "Stanley"
+  ],
+  "Faroe Islands": [
+    "Europe",
+    "Northern Europe",
+    "Tórshavn"
+  ],
+  "Fiji": [
+    "Oceania",
+    "Melanesia",
+    "Suva"
+  ],
+  "Finland": [
+    "Europe",
+    "Northern Europe",
+    "Helsinki"
+  ],
+  "France": [
+    "Europe",
+    "Western Europe",
+    "Paris",
+    "Eiffel Tower"
+  ],
+  "French Guiana": [
+    "Americas",
+    "South America",
+    "Cayenne"
+  ],
+  "French Polynesia": [
+    "Oceania",
+    "Polynesia",
+    "Papeetē"
+  ],
+  "French Southern Territories": [
+    "Africa",
+    "Southern Africa",
+    "Port-aux-Français"
+  ],
+  "Gabon": [
+    "Africa",
+    "Middle Africa",
+    "Libreville"
+  ],
+  "Gambia": [
+    "Africa",
+    "Western Africa",
+    "Banjul"
+  ],
+  "Georgia": [
+    "Asia",
+    "Western Asia",
+    "Tbilisi"
+  ],
+  "Germany": [
+    "Europe",
+    "Western Europe",
+    "Berlin",
+    "Munich",
+    "Hamburg"
+  ],
+  "Ghana": [
+    "Africa",
+    "Western Africa",
+    "Accra"
+  ],
+  "Gibraltar": [
+    "Europe",
+    "Southern Europe",
+    "Gibraltar"
+  ],
+  "Greece": [
+    "Europe",
+    "Southern Europe",
+    "Athens"
+  ],
+  "Greenland": [
+    "Americas",
+    "Northern America",
+    "Nuuk"
+  ],
+  "Grenada": [
+    "Americas",
+    "Caribbean",
+    "St. George's"
+  ],
+  "Guadeloupe": [
+    "Americas",
+    "Caribbean",
+    "Basse-Terre"
+  ],
+  "Guam": [
+    "Oceania",
+    "Micronesia",
+    "Hagåtña"
+  ],
+  "Guatemala": [
+    "Americas",
+    "Central America",
+    "Guatemala City"
+  ],
+  "Guernsey": [
+    "Europe",
+    "Northern Europe",
+    "St. Peter Port"
+  ],
+  "Guinea": [
+    "Africa",
+    "Western Africa",
+    "Conakry"
+  ],
+  "Guinea-Bissau": [
+    "Africa",
+    "Western Africa",
+    "Bissau"
+  ],
+  "Guyana": [
+    "Americas",
+    "South America",
+    "Georgetown"
+  ],
+  "Haiti": [
+    "Americas",
+    "Caribbean",
+    "Port-au-Prince"
+  ],
+  "Heard Island and McDonald Islands": [],
+  "Holy See": [
+    "Europe",
+    "Southern Europe",
+    "Rome"
+  ],
+  "Honduras": [
+    "Americas",
+    "Central America",
+    "Tegucigalpa"
+  ],
+  "Hong Kong": [
+    "Asia",
+    "Eastern Asia",
+    "City of Victoria"
+  ],
+  "Hungary": [
+    "Europe",
+    "Eastern Europe",
+    "Budapest"
+  ],
+  "Iceland": [
+    "Europe",
+    "Northern Europe",
+    "Reykjavík"
+  ],
+  "India": [
+    "Asia",
+    "Southern Asia",
+    "New Delhi"
+  ],
+  "Indonesia": [
+    "Asia",
+    "South-Eastern Asia",
+    "Jakarta"
+  ],
+  "Côte d'Ivoire": [
+    "Africa",
+    "Western Africa",
+    "Yamoussoukro"
+  ],
+  "Iran (Islamic Republic of)": [
+    "Asia",
+    "Southern Asia",
+    "Tehran"
+  ],
+  "Iraq": [
+    "Asia",
+    "Western Asia",
+    "Baghdad"
+  ],
+  "Ireland": [
+    "Europe",
+    "Northern Europe",
+    "Dublin"
+  ],
+  "Isle of Man": [
+    "Europe",
+    "Northern Europe",
+    "Douglas"
+  ],
+  "Israel": [
+    "Asia",
+    "Western Asia",
+    "Jerusalem"
+  ],
+  "Italy": [
+    "Europe",
+    "Southern Europe",
+    "Rome"
+  ],
+  "Jamaica": [
+    "Americas",
+    "Caribbean",
+    "Kingston"
+  ],
+  "Japan": [
+    "Asia",
+    "Eastern Asia",
+    "Tokyo"
+  ],
+  "Jersey": [
+    "Europe",
+    "Northern Europe",
+    "Saint Helier"
+  ],
+  "Jordan": [
+    "Asia",
+    "Western Asia",
+    "Amman"
+  ],
+  "Kazakhstan": [
+    "Asia",
+    "Central Asia",
+    "Astana"
+  ],
+  "Kenya": [
+    "Africa",
+    "Eastern Africa",
+    "Nairobi"
+  ],
+  "Kiribati": [
+    "Oceania",
+    "Micronesia",
+    "South Tarawa"
+  ],
+  "Kuwait": [
+    "Asia",
+    "Western Asia",
+    "Kuwait City"
+  ],
+  "Kyrgyzstan": [
+    "Asia",
+    "Central Asia",
+    "Bishkek"
+  ],
+  "Lao People's Democratic Republic": [
+    "Asia",
+    "South-Eastern Asia",
+    "Vientiane"
+  ],
+  "Latvia": [
+    "Europe",
+    "Northern Europe",
+    "Riga"
+  ],
+  "Lebanon": [
+    "Asia",
+    "Western Asia",
+    "Beirut"
+  ],
+  "Lesotho": [
+    "Africa",
+    "Southern Africa",
+    "Maseru"
+  ],
+  "Liberia": [
+    "Africa",
+    "Western Africa",
+    "Monrovia"
+  ],
+  "Libya": [
+    "Africa",
+    "Northern Africa",
+    "Tripoli"
+  ],
+  "Liechtenstein": [
+    "Europe",
+    "Western Europe",
+    "Vaduz"
+  ],
+  "Lithuania": [
+    "Europe",
+    "Northern Europe",
+    "Vilnius"
+  ],
+  "Luxembourg": [
+    "Europe",
+    "Western Europe",
+    "Luxembourg"
+  ],
+  "Macao": [
+    "Asia",
+    "Eastern Asia"
+  ],
+  "Macedonia (the former Yugoslav Republic of)": [
+    "Europe",
+    "Southern Europe",
+    "Skopje"
+  ],
+  "Madagascar": [
+    "Africa",
+    "Eastern Africa",
+    "Antananarivo"
+  ],
+  "Malawi": [
+    "Africa",
+    "Eastern Africa",
+    "Lilongwe"
+  ],
+  "Malaysia": [
+    "Asia",
+    "South-Eastern Asia",
+    "Kuala Lumpur"
+  ],
+  "Maldives": [
+    "Asia",
+    "Southern Asia",
+    "Malé"
+  ],
+  "Mali": [
+    "Africa",
+    "Western Africa",
+    "Bamako"
+  ],
+  "Malta": [
+    "Europe",
+    "Southern Europe",
+    "Valletta"
+  ],
+  "Marshall Islands": [
+    "Oceania",
+    "Micronesia",
+    "Majuro"
+  ],
+  "Martinique": [
+    "Americas",
+    "Caribbean",
+    "Fort-de-France"
+  ],
+  "Mauritania": [
+    "Africa",
+    "Western Africa",
+    "Nouakchott"
+  ],
+  "Mauritius": [
+    "Africa",
+    "Eastern Africa",
+    "Port Louis"
+  ],
+  "Mayotte": [
+    "Africa",
+    "Eastern Africa",
+    "Mamoudzou"
+  ],
+  "Mexico": [
+    "Americas",
+    "Central America",
+    "Mexico City"
+  ],
+  "Micronesia (Federated States of)": [
+    "Oceania",
+    "Micronesia",
+    "Palikir"
+  ],
+  "Moldova (Republic of)": [
+    "Europe",
+    "Eastern Europe",
+    "Chișinău"
+  ],
+  "Monaco": [
+    "Europe",
+    "Western Europe",
+    "Monaco"
+  ],
+  "Mongolia": [
+    "Asia",
+    "Eastern Asia",
+    "Ulan Bator"
+  ],
+  "Montenegro": [
+    "Europe",
+    "Southern Europe",
+    "Podgorica"
+  ],
+  "Montserrat": [
+    "Americas",
+    "Caribbean",
+    "Plymouth"
+  ],
+  "Morocco": [
+    "Africa",
+    "Northern Africa",
+    "Rabat"
+  ],
+  "Mozambique": [
+    "Africa",
+    "Eastern Africa",
+    "Maputo"
+  ],
+  "Myanmar": [
+    "Asia",
+    "South-Eastern Asia",
+    "Naypyidaw"
+  ],
+  "Namibia": [
+    "Africa",
+    "Southern Africa",
+    "Windhoek"
+  ],
+  "Nauru": [
+    "Oceania",
+    "Micronesia",
+    "Yaren"
+  ],
+  "Nepal": [
+    "Asia",
+    "Southern Asia",
+    "Kathmandu"
+  ],
+  "Netherlands": [
+    "Europe",
+    "Western Europe",
+    "Amsterdam"
+  ],
+  "New Caledonia": [
+    "Oceania",
+    "Melanesia",
+    "Nouméa"
+  ],
+  "New Zealand": [
+    "Oceania",
+    "Australia and New Zealand",
+    "Wellington"
+  ],
+  "Nicaragua": [
+    "Americas",
+    "Central America",
+    "Managua"
+  ],
+  "Niger": [
+    "Africa",
+    "Western Africa",
+    "Niamey"
+  ],
+  "Nigeria": [
+    "Africa",
+    "Western Africa",
+    "Abuja"
+  ],
+  "Niue": [
+    "Oceania",
+    "Polynesia",
+    "Alofi"
+  ],
+  "Norfolk Island": [
+    "Oceania",
+    "Australia and New Zealand",
+    "Kingston"
+  ],
+  "Korea (Democratic People's Republic of)": [
+    "Asia",
+    "Eastern Asia",
+    "Pyongyang"
+  ],
+  "Northern Mariana Islands": [
+    "Oceania",
+    "Micronesia",
+    "Saipan"
+  ],
+  "Norway": [
+    "Europe",
+    "Northern Europe",
+    "Oslo"
+  ],
+  "Oman": [
+    "Asia",
+    "Western Asia",
+    "Muscat"
+  ],
+  "Pakistan": [
+    "Asia",
+    "Southern Asia",
+    "Islamabad"
+  ],
+  "Palau": [
+    "Oceania",
+    "Micronesia",
+    "Ngerulmud"
+  ],
+  "Palestine, State of": [
+    "Asia",
+    "Western Asia",
+    "Ramallah"
+  ],
+  "Panama": [
+    "Americas",
+    "Central America",
+    "Panama City"
+  ],
+  "Papua New Guinea": [
+    "Oceania",
+    "Melanesia",
+    "Port Moresby"
+  ],
+  "Paraguay": [
+    "Americas",
+    "South America",
+    "Asunción"
+  ],
+  "Peru": [
+    "Americas",
+    "South America",
+    "Lima"
+  ],
+  "Philippines": [
+    "Asia",
+    "South-Eastern Asia",
+    "Manila"
+  ],
+  "Pitcairn": [
+    "Oceania",
+    "Polynesia",
+    "Adamstown"
+  ],
+  "Poland": [
+    "Europe",
+    "Eastern Europe",
+    "Warsaw"
+  ],
+  "Portugal": [
+    "Europe",
+    "Southern Europe",
+    "Lisbon"
+  ],
+  "Puerto Rico": [
+    "Americas",
+    "Caribbean",
+    "San Juan"
+  ],
+  "Qatar": [
+    "Asia",
+    "Western Asia",
+    "Doha"
+  ],
+  "Republic of Kosovo": [
+    "Europe",
+    "Eastern Europe",
+    "Pristina"
+  ],
+  "Réunion": [
+    "Africa",
+    "Eastern Africa",
+    "Saint-Denis"
+  ],
+  "Romania": [
+    "Europe",
+    "Eastern Europe",
+    "Bucharest"
+  ],
+  "Russian Federation": [
+    "Europe",
+    "Eastern Europe",
+    "Moscow"
+  ],
+  "Rwanda": [
+    "Africa",
+    "Eastern Africa",
+    "Kigali"
+  ],
+  "Saint Barthélemy": [
+    "Americas",
+    "Caribbean",
+    "Gustavia"
+  ],
+  "Saint Helena, Ascension and Tristan da Cunha": [
+    "Africa",
+    "Western Africa",
+    "Jamestown"
+  ],
+  "Saint Kitts and Nevis": [
+    "Americas",
+    "Caribbean",
+    "Basseterre"
+  ],
+  "Saint Lucia": [
+    "Americas",
+    "Caribbean",
+    "Castries"
+  ],
+  "Saint Martin (French part)": [
+    "Americas",
+    "Caribbean",
+    "Marigot"
+  ],
+  "Saint Pierre and Miquelon": [
+    "Americas",
+    "Northern America",
+    "Saint-Pierre"
+  ],
+  "Saint Vincent and the Grenadines": [
+    "Americas",
+    "Caribbean",
+    "Kingstown"
+  ],
+  "Samoa": [
+    "Oceania",
+    "Polynesia",
+    "Apia"
+  ],
+  "San Marino": [
+    "Europe",
+    "Southern Europe",
+    "City of San Marino"
+  ],
+  "Sao Tome and Principe": [
+    "Africa",
+    "Middle Africa",
+    "São Tomé"
+  ],
+  "Saudi Arabia": [
+    "Asia",
+    "Western Asia",
+    "Riyadh"
+  ],
+  "Senegal": [
+    "Africa",
+    "Western Africa",
+    "Dakar"
+  ],
+  "Serbia": [
+    "Europe",
+    "Southern Europe",
+    "Belgrade"
+  ],
+  "Seychelles": [
+    "Africa",
+    "Eastern Africa",
+    "Victoria"
+  ],
+  "Sierra Leone": [
+    "Africa",
+    "Western Africa",
+    "Freetown"
+  ],
+  "Singapore": [
+    "Asia",
+    "South-Eastern Asia",
+    "Singapore"
+  ],
+  "Sint Maarten (Dutch part)": [
+    "Americas",
+    "Caribbean",
+    "Philipsburg"
+  ],
+  "Slovakia": [
+    "Europe",
+    "Eastern Europe",
+    "Bratislava"
+  ],
+  "Slovenia": [
+    "Europe",
+    "Southern Europe",
+    "Ljubljana"
+  ],
+  "Solomon Islands": [
+    "Oceania",
+    "Melanesia",
+    "Honiara"
+  ],
+  "Somalia": [
+    "Africa",
+    "Eastern Africa",
+    "Mogadishu"
+  ],
+  "South Africa": [
+    "Africa",
+    "Southern Africa",
+    "Pretoria"
+  ],
+  "South Georgia and the South Sandwich Islands": [
+    "Americas",
+    "South America",
+    "King Edward Point"
+  ],
+  "Korea (Republic of)": [
+    "Asia",
+    "Eastern Asia",
+    "Seoul"
+  ],
+  "South Sudan": [
+    "Africa",
+    "Middle Africa",
+    "Juba"
+  ],
+  "Spain": [
+    "Europe",
+    "Southern Europe",
+    "Madrid"
+  ],
+  "Sri Lanka": [
+    "Asia",
+    "Southern Asia",
+    "Colombo"
+  ],
+  "Sudan": [
+    "Africa",
+    "Northern Africa",
+    "Khartoum"
+  ],
+  "Suriname": [
+    "Americas",
+    "South America",
+    "Paramaribo"
+  ],
+  "Svalbard and Jan Mayen": [
+    "Europe",
+    "Northern Europe",
+    "Longyearbyen"
+  ],
+  "Swaziland": [
+    "Africa",
+    "Southern Africa",
+    "Lobamba"
+  ],
+  "Sweden": [
+    "Europe",
+    "Northern Europe",
+    "Stockholm"
+  ],
+  "Switzerland": [
+    "Europe",
+    "Western Europe",
+    "Bern"
+  ],
+  "Syrian Arab Republic": [
+    "Asia",
+    "Western Asia",
+    "Damascus"
+  ],
+  "Taiwan": [
+    "Asia",
+    "Eastern Asia",
+    "Taipei"
+  ],
+  "Tajikistan": [
+    "Asia",
+    "Central Asia",
+    "Dushanbe"
+  ],
+  "Tanzania, United Republic of": [
+    "Africa",
+    "Eastern Africa",
+    "Dodoma"
+  ],
+  "Thailand": [
+    "Asia",
+    "South-Eastern Asia",
+    "Bangkok"
+  ],
+  "Timor-Leste": [
+    "Asia",
+    "South-Eastern Asia",
+    "Dili"
+  ],
+  "Togo": [
+    "Africa",
+    "Western Africa",
+    "Lomé"
+  ],
+  "Tokelau": [
+    "Oceania",
+    "Polynesia",
+    "Fakaofo"
+  ],
+  "Tonga": [
+    "Oceania",
+    "Polynesia",
+    "Nuku'alofa"
+  ],
+  "Trinidad and Tobago": [
+    "Americas",
+    "Caribbean",
+    "Port of Spain"
+  ],
+  "Tunisia": [
+    "Africa",
+    "Northern Africa",
+    "Tunis"
+  ],
+  "Turkey": [
+    "Asia",
+    "Western Asia",
+    "Ankara"
+  ],
+  "Turkmenistan": [
+    "Asia",
+    "Central Asia",
+    "Ashgabat"
+  ],
+  "Turks and Caicos Islands": [
+    "Americas",
+    "Caribbean",
+    "Cockburn Town"
+  ],
+  "Tuvalu": [
+    "Oceania",
+    "Polynesia",
+    "Funafuti"
+  ],
+  "Uganda": [
+    "Africa",
+    "Eastern Africa",
+    "Kampala"
+  ],
+  "Ukraine": [
+    "Europe",
+    "Eastern Europe",
+    "Kiev",
+    "Chernobyl"
+  ],
+  "United Arab Emirates": [
+    "Asia",
+    "Western Asia",
+    "Abu Dhabi"
+  ],
+  "United Kingdom of Great Britain and Northern Ireland": [
+    "Europe",
+    "Northern Europe",
+    "London",
+    "Wales",
+    "Scotland"
+  ],
+  "United States of America": [
+    "Americas",
+    "Northern America",
+    "Washington, D.C.",
+    "New York",
+    "Los Angeles"
+  ],
+  "Uruguay": [
+    "Americas",
+    "South America",
+    "Montevideo"
+  ],
+  "Uzbekistan": [
+    "Asia",
+    "Central Asia",
+    "Tashkent"
+  ],
+  "Vanuatu": [
+    "Oceania",
+    "Melanesia",
+    "Port Vila"
+  ],
+  "Venezuela (Bolivarian Republic of)": [
+    "Americas",
+    "South America",
+    "Caracas"
+  ],
+  "Viet Nam": [
+    "Asia",
+    "South-Eastern Asia",
+    "Hanoi"
+  ],
+  "Wallis and Futuna": [
+    "Oceania",
+    "Polynesia",
+    "Mata-Utu"
+  ],
+  "Western Sahara": [
+    "Africa",
+    "Northern Africa",
+    "El Aaiún"
+  ],
+  "Yemen": [
+    "Asia",
+    "Western Asia",
+    "Sana'a"
+  ],
+  "Zambia": [
+    "Africa",
+    "Eastern Africa",
+    "Lusaka"
+  ],
+  "Zimbabwe": [
+    "Africa",
+    "Eastern Africa",
+    "Harare"
+  ],
+  "Kabul (Afghanistan)": [
+    "Asia"
+  ],
+  "Mariehamn (Åland Islands)": [
+    "Europe"
+  ],
+  "Tirana (Albania)": [
+    "Europe"
+  ],
+  "Algiers (Algeria)": [
+    "Africa"
+  ],
+  "Pago Pago (American Samoa)": [
+    "Oceania"
+  ],
+  "Andorra la Vella (Andorra)": [
+    "Europe"
+  ],
+  "Luanda (Angola)": [
+    "Africa"
+  ],
+  "The Valley (Anguilla)": [
+    "Americas"
+  ],
+  "Saint John's (Antigua and Barbuda)": [
+    "Americas"
+  ],
+  "Buenos Aires (Argentina)": [
+    "Americas"
+  ],
+  "Yerevan (Armenia)": [
+    "Asia"
+  ],
+  "Oranjestad (Aruba)": [
+    "Americas"
+  ],
+  "Canberra (Australia)": [
+    "Oceania"
+  ],
+  "Vienna (Austria)": [
+    "Europe"
+  ],
+  "Baku (Azerbaijan)": [
+    "Asia"
+  ],
+  "Nassau (Bahamas)": [
+    "Americas"
+  ],
+  "Manama (Bahrain)": [
+    "Asia"
+  ],
+  "Dhaka (Bangladesh)": [
+    "Asia"
+  ],
+  "Bridgetown (Barbados)": [
+    "Americas"
+  ],
+  "Minsk (Belarus)": [
+    "Europe"
+  ],
+  "Brussels (Belgium)": [
+    "Europe"
+  ],
+  "Belmopan (Belize)": [
+    "Americas"
+  ],
+  "Porto-Novo (Benin)": [
+    "Africa"
+  ],
+  "Hamilton (Bermuda)": [
+    "Americas"
+  ],
+  "Thimphu (Bhutan)": [
+    "Asia"
+  ],
+  "Sucre (Bolivia (Plurinational State of))": [
+    "Americas"
+  ],
+  "Kralendijk (Bonaire, Sint Eustatius and Saba)": [
+    "Americas"
+  ],
+  "Sarajevo (Bosnia and Herzegovina)": [
+    "Europe"
+  ],
+  "Gaborone (Botswana)": [
+    "Africa"
+  ],
+  "Brasília (Brazil)": [
+    "Americas"
+  ],
+  "Diego Garcia (British Indian Ocean Territory)": [
+    "Africa"
+  ],
+  "Road Town (Virgin Islands (British))": [
+    "Americas"
+  ],
+  "Charlotte Amalie (Virgin Islands (U.S.))": [
+    "Americas"
+  ],
+  "Bandar Seri Begawan (Brunei Darussalam)": [
+    "Asia"
+  ],
+  "Sofia (Bulgaria)": [
+    "Europe"
+  ],
+  "Ouagadougou (Burkina Faso)": [
+    "Africa"
+  ],
+  "Bujumbura (Burundi)": [
+    "Africa"
+  ],
+  "Phnom Penh (Cambodia)": [
+    "Asia"
+  ],
+  "Yaoundé (Cameroon)": [
+    "Africa"
+  ],
+  "Ottawa (Canada)": [
+    "Americas"
+  ],
+  "Praia (Cabo Verde)": [
+    "Africa"
+  ],
+  "George Town (Cayman Islands)": [
+    "Americas"
+  ],
+  "Bangui (Central African Republic)": [
+    "Africa"
+  ],
+  "N'Djamena (Chad)": [
+    "Africa"
+  ],
+  "Santiago (Chile)": [
+    "Americas"
+  ],
+  "Beijing (China)": [
+    "Asia"
+  ],
+  "Flying Fish Cove (Christmas Island)": [
+    "Oceania"
+  ],
+  "West Island (Cocos (Keeling) Islands)": [
+    "Oceania"
+  ],
+  "Bogotá (Colombia)": [
+    "Americas"
+  ],
+  "Moroni (Comoros)": [
+    "Africa"
+  ],
+  "Brazzaville (Congo)": [
+    "Africa"
+  ],
+  "Kinshasa (Congo (Democratic Republic of the))": [
+    "Africa"
+  ],
+  "Avarua (Cook Islands)": [
+    "Oceania"
+  ],
+  "San José (Costa Rica)": [
+    "Americas"
+  ],
+  "Zagreb (Croatia)": [
+    "Europe"
+  ],
+  "Havana (Cuba)": [
+    "Americas"
+  ],
+  "Willemstad (Curaçao)": [
+    "Americas"
+  ],
+  "Nicosia (Cyprus)": [
+    "Europe"
+  ],
+  "Prague (Czech Republic)": [
+    "Europe"
+  ],
+  "Copenhagen (Denmark)": [
+    "Europe"
+  ],
+  "Djibouti (Djibouti)": [
+    "Africa"
+  ],
+  "Roseau (Dominica)": [
+    "Americas"
+  ],
+  "Santo Domingo (Dominican Republic)": [
+    "Americas"
+  ],
+  "Quito (Ecuador)": [
+    "Americas"
+  ],
+  "Cairo (Egypt)": [
+    "Africa"
+  ],
+  "San Salvador (El Salvador)": [
+    "Americas"
+  ],
+  "Malabo (Equatorial Guinea)": [
+    "Africa"
+  ],
+  "Asmara (Eritrea)": [
+    "Africa"
+  ],
+  "Tallinn (Estonia)": [
+    "Europe"
+  ],
+  "Addis Ababa (Ethiopia)": [
+    "Africa"
+  ],
+  "Stanley (Falkland Islands (Malvinas))": [
+    "Americas"
+  ],
+  "Tórshavn (Faroe Islands)": [
+    "Europe"
+  ],
+  "Suva (Fiji)": [
+    "Oceania"
+  ],
+  "Helsinki (Finland)": [
+    "Europe"
+  ],
+  "Paris (France)": [
+    "Europe"
+  ],
+  "Cayenne (French Guiana)": [
+    "Americas"
+  ],
+  "Papeetē (French Polynesia)": [
+    "Oceania"
+  ],
+  "Port-aux-Français (French Southern Territories)": [
+    "Africa"
+  ],
+  "Libreville (Gabon)": [
+    "Africa"
+  ],
+  "Banjul (Gambia)": [
+    "Africa"
+  ],
+  "Tbilisi (Georgia)": [
+    "Asia"
+  ],
+  "Berlin (Germany)": [
+    "Europe"
+  ],
+  "Accra (Ghana)": [
+    "Africa"
+  ],
+  "Gibraltar (Gibraltar)": [
+    "Europe"
+  ],
+  "Athens (Greece)": [
+    "Europe"
+  ],
+  "Nuuk (Greenland)": [
+    "Americas"
+  ],
+  "St. George's (Grenada)": [
+    "Americas"
+  ],
+  "Basse-Terre (Guadeloupe)": [
+    "Americas"
+  ],
+  "Hagåtña (Guam)": [
+    "Oceania"
+  ],
+  "Guatemala City (Guatemala)": [
+    "Americas"
+  ],
+  "St. Peter Port (Guernsey)": [
+    "Europe"
+  ],
+  "Conakry (Guinea)": [
+    "Africa"
+  ],
+  "Bissau (Guinea-Bissau)": [
+    "Africa"
+  ],
+  "Georgetown (Guyana)": [
+    "Americas"
+  ],
+  "Port-au-Prince (Haiti)": [
+    "Americas"
+  ],
+  "Rome (Holy See)": [
+    "Europe"
+  ],
+  "Tegucigalpa (Honduras)": [
+    "Americas"
+  ],
+  "City of Victoria (Hong Kong)": [
+    "Asia"
+  ],
+  "Budapest (Hungary)": [
+    "Europe"
+  ],
+  "Reykjavík (Iceland)": [
+    "Europe"
+  ],
+  "New Delhi (India)": [
+    "Asia"
+  ],
+  "Jakarta (Indonesia)": [
+    "Asia"
+  ],
+  "Yamoussoukro (Côte d'Ivoire)": [
+    "Africa"
+  ],
+  "Tehran (Iran (Islamic Republic of))": [
+    "Asia"
+  ],
+  "Baghdad (Iraq)": [
+    "Asia"
+  ],
+  "Dublin (Ireland)": [
+    "Europe"
+  ],
+  "Douglas (Isle of Man)": [
+    "Europe"
+  ],
+  "Jerusalem (Israel)": [
+    "Asia"
+  ],
+  "Rome (Italy)": [
+    "Europe"
+  ],
+  "Kingston (Jamaica)": [
+    "Americas"
+  ],
+  "Tokyo (Japan)": [
+    "Asia"
+  ],
+  "Saint Helier (Jersey)": [
+    "Europe"
+  ],
+  "Amman (Jordan)": [
+    "Asia"
+  ],
+  "Astana (Kazakhstan)": [
+    "Asia"
+  ],
+  "Nairobi (Kenya)": [
+    "Africa"
+  ],
+  "South Tarawa (Kiribati)": [
+    "Oceania"
+  ],
+  "Kuwait City (Kuwait)": [
+    "Asia"
+  ],
+  "Bishkek (Kyrgyzstan)": [
+    "Asia"
+  ],
+  "Vientiane (Lao People's Democratic Republic)": [
+    "Asia"
+  ],
+  "Riga (Latvia)": [
+    "Europe"
+  ],
+  "Beirut (Lebanon)": [
+    "Asia"
+  ],
+  "Maseru (Lesotho)": [
+    "Africa"
+  ],
+  "Monrovia (Liberia)": [
+    "Africa"
+  ],
+  "Tripoli (Libya)": [
+    "Africa"
+  ],
+  "Vaduz (Liechtenstein)": [
+    "Europe"
+  ],
+  "Vilnius (Lithuania)": [
+    "Europe"
+  ],
+  "Luxembourg (Luxembourg)": [
+    "Europe"
+  ],
+  "Skopje (Macedonia (the former Yugoslav Republic of))": [
+    "Europe"
+  ],
+  "Antananarivo (Madagascar)": [
+    "Africa"
+  ],
+  "Lilongwe (Malawi)": [
+    "Africa"
+  ],
+  "Kuala Lumpur (Malaysia)": [
+    "Asia"
+  ],
+  "Malé (Maldives)": [
+    "Asia"
+  ],
+  "Bamako (Mali)": [
+    "Africa"
+  ],
+  "Valletta (Malta)": [
+    "Europe"
+  ],
+  "Majuro (Marshall Islands)": [
+    "Oceania"
+  ],
+  "Fort-de-France (Martinique)": [
+    "Americas"
+  ],
+  "Nouakchott (Mauritania)": [
+    "Africa"
+  ],
+  "Port Louis (Mauritius)": [
+    "Africa"
+  ],
+  "Mamoudzou (Mayotte)": [
+    "Africa"
+  ],
+  "Mexico City (Mexico)": [
+    "Americas"
+  ],
+  "Palikir (Micronesia (Federated States of))": [
+    "Oceania"
+  ],
+  "Chișinău (Moldova (Republic of))": [
+    "Europe"
+  ],
+  "Monaco (Monaco)": [
+    "Europe"
+  ],
+  "Ulan Bator (Mongolia)": [
+    "Asia"
+  ],
+  "Podgorica (Montenegro)": [
+    "Europe"
+  ],
+  "Plymouth (Montserrat)": [
+    "Americas"
+  ],
+  "Rabat (Morocco)": [
+    "Africa"
+  ],
+  "Maputo (Mozambique)": [
+    "Africa"
+  ],
+  "Naypyidaw (Myanmar)": [
+    "Asia"
+  ],
+  "Windhoek (Namibia)": [
+    "Africa"
+  ],
+  "Yaren (Nauru)": [
+    "Oceania"
+  ],
+  "Kathmandu (Nepal)": [
+    "Asia"
+  ],
+  "Amsterdam (Netherlands)": [
+    "Europe"
+  ],
+  "Nouméa (New Caledonia)": [
+    "Oceania"
+  ],
+  "Wellington (New Zealand)": [
+    "Oceania"
+  ],
+  "Managua (Nicaragua)": [
+    "Americas"
+  ],
+  "Niamey (Niger)": [
+    "Africa"
+  ],
+  "Abuja (Nigeria)": [
+    "Africa"
+  ],
+  "Alofi (Niue)": [
+    "Oceania"
+  ],
+  "Kingston (Norfolk Island)": [
+    "Oceania"
+  ],
+  "Pyongyang (Korea (Democratic People's Republic of))": [
+    "Asia"
+  ],
+  "Saipan (Northern Mariana Islands)": [
+    "Oceania"
+  ],
+  "Oslo (Norway)": [
+    "Europe"
+  ],
+  "Muscat (Oman)": [
+    "Asia"
+  ],
+  "Islamabad (Pakistan)": [
+    "Asia"
+  ],
+  "Ngerulmud (Palau)": [
+    "Oceania"
+  ],
+  "Ramallah (Palestine, State of)": [
+    "Asia"
+  ],
+  "Panama City (Panama)": [
+    "Americas"
+  ],
+  "Port Moresby (Papua New Guinea)": [
+    "Oceania"
+  ],
+  "Asunción (Paraguay)": [
+    "Americas"
+  ],
+  "Lima (Peru)": [
+    "Americas"
+  ],
+  "Manila (Philippines)": [
+    "Asia"
+  ],
+  "Adamstown (Pitcairn)": [
+    "Oceania"
+  ],
+  "Warsaw (Poland)": [
+    "Europe"
+  ],
+  "Lisbon (Portugal)": [
+    "Europe"
+  ],
+  "San Juan (Puerto Rico)": [
+    "Americas"
+  ],
+  "Doha (Qatar)": [
+    "Asia"
+  ],
+  "Pristina (Republic of Kosovo)": [
+    "Europe"
+  ],
+  "Saint-Denis (Réunion)": [
+    "Africa"
+  ],
+  "Bucharest (Romania)": [
+    "Europe"
+  ],
+  "Moscow (Russian Federation)": [
+    "Europe"
+  ],
+  "Kigali (Rwanda)": [
+    "Africa"
+  ],
+  "Gustavia (Saint Barthélemy)": [
+    "Americas"
+  ],
+  "Jamestown (Saint Helena, Ascension and Tristan da Cunha)": [
+    "Africa"
+  ],
+  "Basseterre (Saint Kitts and Nevis)": [
+    "Americas"
+  ],
+  "Castries (Saint Lucia)": [
+    "Americas"
+  ],
+  "Marigot (Saint Martin (French part))": [
+    "Americas"
+  ],
+  "Saint-Pierre (Saint Pierre and Miquelon)": [
+    "Americas"
+  ],
+  "Kingstown (Saint Vincent and the Grenadines)": [
+    "Americas"
+  ],
+  "Apia (Samoa)": [
+    "Oceania"
+  ],
+  "City of San Marino (San Marino)": [
+    "Europe"
+  ],
+  "São Tomé (Sao Tome and Principe)": [
+    "Africa"
+  ],
+  "Riyadh (Saudi Arabia)": [
+    "Asia"
+  ],
+  "Dakar (Senegal)": [
+    "Africa"
+  ],
+  "Belgrade (Serbia)": [
+    "Europe"
+  ],
+  "Victoria (Seychelles)": [
+    "Africa"
+  ],
+  "Freetown (Sierra Leone)": [
+    "Africa"
+  ],
+  "Singapore (Singapore)": [
+    "Asia"
+  ],
+  "Philipsburg (Sint Maarten (Dutch part))": [
+    "Americas"
+  ],
+  "Bratislava (Slovakia)": [
+    "Europe"
+  ],
+  "Ljubljana (Slovenia)": [
+    "Europe"
+  ],
+  "Honiara (Solomon Islands)": [
+    "Oceania"
+  ],
+  "Mogadishu (Somalia)": [
+    "Africa"
+  ],
+  "Pretoria (South Africa)": [
+    "Africa"
+  ],
+  "King Edward Point (South Georgia and the South Sandwich Islands)": [
+    "Americas"
+  ],
+  "Seoul (Korea (Republic of))": [
+    "Asia"
+  ],
+  "Juba (South Sudan)": [
+    "Africa"
+  ],
+  "Madrid (Spain)": [
+    "Europe"
+  ],
+  "Colombo (Sri Lanka)": [
+    "Asia"
+  ],
+  "Khartoum (Sudan)": [
+    "Africa"
+  ],
+  "Paramaribo (Suriname)": [
+    "Americas"
+  ],
+  "Longyearbyen (Svalbard and Jan Mayen)": [
+    "Europe"
+  ],
+  "Lobamba (Swaziland)": [
+    "Africa"
+  ],
+  "Stockholm (Sweden)": [
+    "Europe"
+  ],
+  "Bern (Switzerland)": [
+    "Europe"
+  ],
+  "Damascus (Syrian Arab Republic)": [
+    "Asia"
+  ],
+  "Taipei (Taiwan)": [
+    "Asia"
+  ],
+  "Dushanbe (Tajikistan)": [
+    "Asia"
+  ],
+  "Dodoma (Tanzania, United Republic of)": [
+    "Africa"
+  ],
+  "Bangkok (Thailand)": [
+    "Asia"
+  ],
+  "Dili (Timor-Leste)": [
+    "Asia"
+  ],
+  "Lomé (Togo)": [
+    "Africa"
+  ],
+  "Fakaofo (Tokelau)": [
+    "Oceania"
+  ],
+  "Nuku'alofa (Tonga)": [
+    "Oceania"
+  ],
+  "Port of Spain (Trinidad and Tobago)": [
+    "Americas"
+  ],
+  "Tunis (Tunisia)": [
+    "Africa"
+  ],
+  "Ankara (Turkey)": [
+    "Asia"
+  ],
+  "Ashgabat (Turkmenistan)": [
+    "Asia"
+  ],
+  "Cockburn Town (Turks and Caicos Islands)": [
+    "Americas"
+  ],
+  "Funafuti (Tuvalu)": [
+    "Oceania"
+  ],
+  "Kampala (Uganda)": [
+    "Africa"
+  ],
+  "Kiev (Ukraine)": [
+    "Europe"
+  ],
+  "Abu Dhabi (United Arab Emirates)": [
+    "Asia"
+  ],
+  "London (United Kingdom of Great Britain and Northern Ireland)": [
+    "Europe"
+  ],
+  "Washington, D.C. (United States of America)": [
+    "Americas"
+  ],
+  "Montevideo (Uruguay)": [
+    "Americas"
+  ],
+  "Tashkent (Uzbekistan)": [
+    "Asia"
+  ],
+  "Port Vila (Vanuatu)": [
+    "Oceania"
+  ],
+  "Caracas (Venezuela (Bolivarian Republic of))": [
+    "Americas"
+  ],
+  "Hanoi (Viet Nam)": [
+    "Asia"
+  ],
+  "Mata-Utu (Wallis and Futuna)": [
+    "Oceania"
+  ],
+  "El Aaiún (Western Sahara)": [
+    "Africa"
+  ],
+  "Sana'a (Yemen)": [
+    "Asia"
+  ],
+  "Lusaka (Zambia)": [
+    "Africa"
+  ],
+  "Harare (Zimbabwe)": [
+    "Africa"
+  ]
+}

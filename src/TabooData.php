@@ -4,10 +4,16 @@ namespace Kovah;
 
 class TabooData
 {
-    /** @var string */
-    protected static $standardLanguage = 'de';
+    /** @var string[] */
+    public static $availableLanguages = [
+        'en',
+        'de',
+    ];
 
     /**
+     * Get all languages and their categories, together with the category descriptors.
+     * Does not include any keyword data.
+     *
      * @return array|null
      * @throws \Exception
      */
@@ -17,28 +23,22 @@ class TabooData
     }
 
     /**
+     * Get the keywords from a category.
+     *
      * @param string $category
+     * @param string $language Standard is EN
      * @return array|null
      * @throws \Exception
      */
-    public static function getCategory(string $category): ?array
+    public static function getCategory(string $category, string $language = 'en'): ?array
     {
         $category = self::appendFileExtension($category);
 
-        if (!self::categoryStringHasLanguage($category)) {
-            $category = self::$standardLanguage . '/' . $category;
+        if (!in_array($language, self::$availableLanguages)) {
+            throw new \Exception("The language $language is not available.");
         }
 
-        return self::getFileContents($category);
-    }
-
-    /**
-     * @param string $category
-     * @return bool
-     */
-    private static function categoryStringHasLanguage(string $category): bool
-    {
-        return strpos($category, '/') !== false;
+        return self::getFileContents("$language/$category");
     }
 
     /**

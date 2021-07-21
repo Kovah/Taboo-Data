@@ -1,41 +1,42 @@
-import { categories } from './data/categories';
-import { animals } from './data/de/animals';
-import { cars } from './data/de/cars';
-import { cityCountry } from './data/de/city-country';
-import { food } from './data/de/food';
-import { literature } from './data/de/literature';
-import { people } from './data/de/people';
-import { sports } from './data/de/sports';
-import { things } from './data/de/things';
-import { tv } from './data/de/tv';
-import { web } from './data/de/web';
+import * as categories from './data/categories.json';
+
+const availableLanguages = [
+  'en', 'de'
+];
 
 export default class TabooData {
 
-  static categoryImports () {
-    return {
-      'animals': animals,
-      'cars': cars,
-      'cityCountry': cityCountry,
-      'food': food,
-      'literature': literature,
-      'people': people,
-      'sports': sports,
-      'things': things,
-      'tv': tv,
-      'web': web
-    };
-  };
+  /**
+   * Get all categories, or all categories of a specific language.
+   * Does not include the actual keywords.
+   *
+   * @param language Either null or String
+   * @return Object
+   */
+  static categories (language = '') {
+    if (language.length > 0) {
+      if (!availableLanguages.find(l => l === language)) {
+        throw new Error(`The language ${language.toUpperCase()} is not available.`);
+      }
 
-  static categories () {
-    return categories;
-  };
-
-  static getCategory (category) {
-    if (typeof this.categoryImports()[category] === 'undefined') {
-      return null;
+      return categories.default[language];
     }
 
-    return this.categoryImports()[category];
+    return categories.default;
+  };
+
+  /**
+   * Get the keywords of a specific category for a specific language.
+   *
+   * @param category
+   * @param language
+   * @return Object
+   */
+  static async getCategory (category, language = 'en') {
+    if (!availableLanguages.find(l => l === language)) {
+      throw new Error(`The language ${language.toUpperCase()} is not available.`);
+    }
+
+    return await import(`./data/${language}/${category}.json`).then(data => data.default);
   }
 }
