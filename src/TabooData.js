@@ -1,6 +1,6 @@
 const categories = require('./data/categories.json');
 
-const languages = ['de']
+const languages = ['de', 'en']
 
 let data = {};
 

@@ -6,6 +6,7 @@ class JsonDataTest extends TestCase
 {
     public static $languages = [
         'de',
+        'en',
     ];
 
     public function testValidJson(): void
