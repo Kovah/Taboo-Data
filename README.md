@@ -31,8 +31,11 @@ Here's an example on how to use the package with Javascript:
 ```javascript
 import { TabooData } from 'taboo-data';
 
+// Get all available languages, their categories and the category descriptions
 const categories = TabooData.categories();
-const animals = TabooData.getCategory('animals', 'de');
+
+// Get the keywords for a specific category and language
+const animals = await TabooData.getCategory('animals', 'de');
 ```
 
 Please notice that importing the whole TabooData dataset will bloat your Javascript files as all entries from all categories are loaded.

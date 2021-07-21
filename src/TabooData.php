@@ -11,7 +11,8 @@ class TabooData
     ];
 
     /**
-     * Get all all categories from all languages
+     * Get all languages and their categories, together with the category descriptors.
+     * Does not include any keyword data.
      *
      * @return array|null
      * @throws \Exception
