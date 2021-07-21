@@ -15,10 +15,22 @@ jobs:
       matrix:
         operating-system: [ ubuntu-latest ]
     steps:
-      - uses: actions/checkout@v1
+      - uses: actions/checkout@v2
+
+      - name: Cache node modules
+        uses: actions/cache@v2
+        env:
+          cache-name: cache-node-modules
+        with:
+          path: ~/.npm
+          key: ${{ runner.os }}-build-${{ env.cache-name }}-${{ hashFiles('**/package-lock.json') }}
+          restore-keys: |
+            ${{ runner.os }}-build-${{ env.cache-name }}-
+            ${{ runner.os }}-build-
+            ${{ runner.os }}-
 
       - name: Install modules
-        run: npm ci
+        run: npm install
 
       - name: Run tests
         run: npm run test
@@ -31,7 +43,7 @@ jobs:
         operating-system: [ubuntu-latest]
         php-versions: ['7.2', '7.3', '7.4', '8.0']
     steps:
-      - uses: actions/checkout@v1
+      - uses: actions/checkout@v2
 
       - name: Setup PHP
         uses: shivammathur/setup-php@v1
