@@ -21,7 +21,7 @@
     "url": "https://github.com/Kovah/Taboo-Data/issues"
   },
   "devDependencies": {
-    "jest": "^27.0.6"
+    "jest": "^29.0.0"
   },
   "scripts": {
     "test": "node --experimental-vm-modules node_modules/.bin/jest"
